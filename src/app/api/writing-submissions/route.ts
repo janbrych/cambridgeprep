@@ -1,4 +1,5 @@
 import { listWritingSubmissions, saveWritingSubmission } from "@/lib/store";
+import { after } from "next/server";
 import { syncProgressToGitHub } from "@/lib/git-sync";
 import type { WritingSubmission } from "@/lib/types";
 
@@ -26,8 +27,11 @@ export async function POST(request: Request) {
   }
 
   const submission = await saveWritingSubmission(body);
-  await syncProgressToGitHub(
-    `Writing submission: ${submission.promptId} (${submission.wordCount} words)`
+  // Push after responding so a slow or offline network doesn't hold up the save.
+  after(() =>
+    syncProgressToGitHub(
+      `Writing submission: ${submission.promptId} (${submission.wordCount} words)`
+    )
   );
   return Response.json(submission, { status: 201 });
 }

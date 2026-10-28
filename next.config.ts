@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
    * dynamic (reads/writes JSON files on every request) and isn't deployed
    * behind a CDN, so Cache Components/PPR would add Suspense boundaries
    * everywhere for no benefit. Using the classic dynamic rendering model
-   * instead. */
+   * instead (`dynamic = "force-dynamic"` in src/app/layout.tsx). */
   turbopack: {
     rules: {
       "*.css": {

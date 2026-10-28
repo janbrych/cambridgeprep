@@ -46,8 +46,8 @@
       "sentence1": "The team most urgently needed more funding, not more staff.",
       "keyword": "WHAT",
       "sentence2Prefix": "",
-      "sentence2Suffix": "the team most urgently needed was more funding, not more staff.",
-      "answer": "What",
+      "sentence2Suffix": "was more funding, not more staff.",
+      "answer": "What the team most urgently needed",
       "explanation": "A 'what' cleft sentence ('What + clause + be + focus') is used to emphasise a particular element of the sentence — here, the thing that was needed."
     },
     {

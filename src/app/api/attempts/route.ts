@@ -1,4 +1,5 @@
 import { listAttempts, saveAttempt } from "@/lib/store";
+import { after } from "next/server";
 import { syncProgressToGitHub } from "@/lib/git-sync";
 import type { Attempt } from "@/lib/types";
 
@@ -21,8 +22,11 @@ export async function POST(request: Request) {
   }
 
   const attempt = await saveAttempt(body);
-  await syncProgressToGitHub(
-    `Attempt: ${attempt.exerciseId} (${attempt.score}/${attempt.maxScore})`
+  // Push after responding so a slow or offline network doesn't hold up the save.
+  after(() =>
+    syncProgressToGitHub(
+      `Attempt: ${attempt.exerciseId} (${attempt.score}/${attempt.maxScore})`
+    )
   );
   return Response.json(attempt, { status: 201 });
 }

@@ -43,12 +43,12 @@
     },
     {
       "number": 5,
-      "sentence1": "The research was conducted over a period of five years.",
+      "sentence1": "It was necessary for the team to conduct the research over a period of five years.",
       "keyword": "CARRY",
-      "sentence2Prefix": "The research",
-      "sentence2Suffix": "a period of five years.",
-      "answer": "was carried out over",
-      "explanation": "'Carry out research/an investigation' is a fixed collocation meaning to conduct it, here used in the passive ('was carried out')."
+      "sentence2Prefix": "The team had",
+      "sentence2Suffix": "the research over a period of five years.",
+      "answer": "to carry out",
+      "explanation": "'Have to' replaces 'it was necessary', and 'carry out research/an investigation' is a fixed collocation meaning to conduct it. The key word CARRY must stay unchanged."
     },
     {
       "number": 6,

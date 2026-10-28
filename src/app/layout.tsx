@@ -13,6 +13,11 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+// Every page reads data/progress/*.json, which changes as you practise, so
+// render on each request instead of prerendering at build time (otherwise
+// `next build && next start` would show a frozen snapshot).
+export const dynamic = "force-dynamic";
+
 export const metadata: Metadata = {
   title: "C1/C2 English Prep",
   description: "Personal Cambridge C1 Advanced / C2 Proficiency exam practice",
