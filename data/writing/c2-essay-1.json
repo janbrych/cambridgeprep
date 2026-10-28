@@ -1,0 +1,9 @@
+{
+  "id": "wr-c2-essay-1",
+  "level": "C2",
+  "taskType": "essay",
+  "title": "Essay: Automation and the Future of Work",
+  "prompt": "Your class has been discussing the following statement:\n\n'In the future, most work currently done by humans will be done by machines.'\n\nWrite an essay for your tutor in which you discuss the statement, evaluating TWO of the following areas, and reach a conclusion, giving reasons to support your view.\n\nNotes\n- creative industries\n- healthcare\n- manual labour\n\nWrite your essay in 280-320 words.",
+  "wordCountRange": [280, 320],
+  "notes": "C2 bar: expect more sophisticated structuring than C1 (e.g. acknowledging and rebutting a counter-argument, not just stating two sides); precise, varied vocabulary and complex sentence structures used accurately and naturally, not just for display; subtle discourse markers rather than mechanical ones ('Firstly'/'Secondly'); a genuinely developed, nuanced conclusion rather than a restated opinion."
+}

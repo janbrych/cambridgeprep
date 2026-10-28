@@ -1,0 +1,82 @@
+{
+  "id": "rmc-c1-3",
+  "level": "C1",
+  "part": "reading_multiple_choice",
+  "title": "The Puzzle of Octopus Intelligence",
+  "instructions": "For questions 1-6, read the text below and answer the questions by choosing A, B, C or D.",
+  "passage": "Few animals unsettle our assumptions about intelligence quite as thoroughly as the octopus. Separated from vertebrates on the evolutionary tree for roughly five hundred million years, it nonetheless solves puzzles, recognises individual human keepers, and, in several well-documented cases, has escaped supposedly secure aquarium tanks using a level of planning that would be remarkable in a mammal, let alone a mollusc.\n\nWhat makes this especially puzzling to biologists is the octopus's nervous system, which bears almost no resemblance to our own. Rather than concentrating most of its neurons in a central brain, an octopus distributes the majority of them along its eight arms, each of which can taste, touch and, to a striking extent, act independently of instructions from the head. An amputated octopus arm has been observed reaching for food for some time after being severed, a fact that raises uncomfortable questions about where, exactly, an octopus's mind is actually located.\n\nThis decentralised arrangement has led some researchers to suggest that describing octopus cognition in the same terms used for human or primate intelligence may be fundamentally misleading. Rather than a single, unified 'self' directing the body from above, the octopus may be better understood as a loose confederation of semi-autonomous parts, coordinated just enough to produce coherent behaviour from the outside.\n\nOctopuses are also famously solitary and short-lived, surviving only a year or two in most species, which makes their cognitive abilities harder still to explain. Many of the animals we consider intelligent - elephants, dolphins, crows - are long-lived and highly social, and researchers have tended to assume that intelligence evolves largely to manage complex relationships over a lifetime. The octopus, which barely outlives a single breeding season and shows little interest in the company of its own kind, appears to have arrived at sophisticated problem-solving by an entirely different evolutionary route.\n\nQuite what that route was remains a matter of genuine scientific disagreement. Some suggest that camouflage and predator evasion, rather than social complexity, drove the evolution of a flexible, inventive nervous system; a boneless animal with no shell to retreat into has little margin for error and might simply have needed to become extraordinarily good at improvising its way out of trouble. Whatever the explanation eventually turns out to be, the octopus stands as a useful reminder that intelligence, wherever it is found, need not look anything like our own.",
+  "questions": [
+    {
+      "number": 1,
+      "question": "What does the writer find striking about octopus behaviour mentioned in the first paragraph?",
+      "options": [
+        "It shows a level of planning unusual for an invertebrate.",
+        "It closely resembles the behaviour of other molluscs.",
+        "It depends entirely on training by human keepers.",
+        "It has only been observed in captivity."
+      ],
+      "answer": "A",
+      "explanation": "The text says the octopus shows 'a level of planning that would be remarkable in a mammal, let alone a mollusc' — the opposite of resembling other molluscs, and nothing suggests it depends only on training or is limited to captivity."
+    },
+    {
+      "number": 2,
+      "question": "According to the second paragraph, why is the octopus's nervous system puzzling to biologists?",
+      "options": [
+        "It has far fewer neurons than other invertebrates.",
+        "It is identical in structure to a human brain.",
+        "Its arms appear able to act somewhat independently of the brain.",
+        "It stops functioning once an arm is removed."
+      ],
+      "answer": "C",
+      "explanation": "The arms 'act independently of instructions from the head', and a severed arm keeps reaching for food — the opposite of C's negation, and the paragraph explicitly says the system 'bears almost no resemblance' to a human brain."
+    },
+    {
+      "number": 3,
+      "question": "What point is the writer making in the third paragraph about octopus cognition?",
+      "options": [
+        "It is identical to how human cognition works.",
+        "It has been proven not to exist.",
+        "It is controlled entirely by a single dominant arm.",
+        "It is best understood as coordinated but not centrally unified."
+      ],
+      "answer": "D",
+      "explanation": "The octopus is described as 'a loose confederation of semi-autonomous parts, coordinated just enough to produce coherent behaviour' — not a single controlling arm, not identical to human cognition, and its existence is not disputed."
+    },
+    {
+      "number": 4,
+      "question": "What does the fourth paragraph suggest is unusual about octopus intelligence compared to that of elephants, dolphins or crows?",
+      "options": [
+        "It only develops after several breeding seasons.",
+        "It appears despite the octopus being solitary and short-lived.",
+        "It is weaker than that of social, long-lived animals.",
+        "It relies on learning from older members of a group."
+      ],
+      "answer": "B",
+      "explanation": "The octopus 'barely outlives a single breeding season and shows little interest in the company of its own kind', unlike the long-lived, social animals usually associated with intelligence — it doesn't rely on group learning or survive long enough for repeated breeding seasons."
+    },
+    {
+      "number": 5,
+      "question": "What theory is put forward in the final paragraph to explain octopus intelligence?",
+      "options": [
+        "It evolved primarily to assist with camouflage and escaping predators.",
+        "It evolved mainly to help the octopus manage social relationships.",
+        "It evolved as scientists trained octopuses over generations.",
+        "It evolved identically to the intelligence of dolphins."
+      ],
+      "answer": "A",
+      "explanation": "The paragraph proposes that 'camouflage and predator evasion, rather than social complexity, drove the evolution' of octopus intelligence, explicitly ruling out the social-relationships explanation."
+    },
+    {
+      "number": 6,
+      "question": "What is the writer's overall conclusion about intelligence, based on the octopus example?",
+      "options": [
+        "True intelligence can only be measured using human standards.",
+        "The octopus is less intelligent than previously believed.",
+        "Intelligence may take forms very different from familiar, human-like models.",
+        "Only social, long-lived animals can be considered genuinely intelligent."
+      ],
+      "answer": "C",
+      "explanation": "The final line states that intelligence 'need not look anything like our own' — directly contradicting the idea that human standards are the only measure, and the whole text argues for the octopus's sophistication, not against it."
+    }
+  ]
+}

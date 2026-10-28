@@ -1,0 +1,82 @@
+{
+  "id": "rmc-c1-1",
+  "level": "C1",
+  "part": "reading_multiple_choice",
+  "title": "Why We Still Need Silence",
+  "instructions": "For questions 1-6, read the text below and answer the questions by choosing A, B, C or D.",
+  "passage": "For most of human history, silence was not a luxury; it was simply the background condition of life. Today, in cities where traffic, notifications and other people's music compete for our attention around the clock, finding genuine quiet has become something people actively seek out, book into their calendars, even pay for.\n\nThis shift has prompted a modest but growing body of research into what, exactly, we lose when we are rarely if ever truly undisturbed. Neuroscientists have found that the brain's so-called default mode network - the circuitry associated with daydreaming, memory consolidation and creative insight - becomes markedly more active during periods of quiet than during periods of focused, externally directed attention. In other words, some of our most original thinking appears to happen precisely when we are doing, and hearing, nothing in particular.\n\nNone of this would greatly surprise novelists or composers, many of whom have long insisted on protected hours of silence in which to work. What is newer is the idea that ordinary people, not just the creatively inclined, might benefit from deliberately engineering quiet into otherwise relentlessly busy days. Some employers have begun experimenting with 'quiet rooms', windowless spaces stripped of screens and signage, in which staff are permitted - indeed encouraged - to do absolutely nothing for twenty minutes at a stretch. Early, admittedly self-reported, evidence suggests that employees who use these rooms regularly report feeling less frazzled and more able to concentrate for the remainder of the day, though whether this is down to the silence itself, the permission to pause, or simply the novelty of the exercise remains genuinely unclear.\n\nSceptics are not hard to find. Some point out that constant background noise is, for many people, not an unwelcome intrusion but a source of comfort, even stimulation; open-plan offices and bustling cafés are popular precisely because total silence can feel oppressive rather than restorative. Others note, more pointedly, that the ability to retreat into quiet is itself a form of privilege: those working several jobs, caring for young children, or living in cramped, shared accommodation rarely have the luxury of a room, let alone twenty uninterrupted minutes, in which to sit with their own thoughts.\n\nWhat seems clear, whichever side of the debate one finds more persuasive, is that silence has quietly become a subject worth taking seriously - not as an indulgence for the precious few, but as a resource whose uneven distribution says something uncomfortable about how modern life is organised.",
+  "questions": [
+    {
+      "number": 1,
+      "question": "In the first paragraph, the writer suggests that silence has become",
+      "options": [
+        "something people no longer value.",
+        "a commodity people now have to seek out deliberately.",
+        "impossible to find in modern cities.",
+        "less important than it used to be."
+      ],
+      "answer": "B",
+      "explanation": "The paragraph says people now 'actively seek out, book into their calendars, even pay for' quiet — it has become something deliberately pursued, not something valued less, and not described as impossible to find."
+    },
+    {
+      "number": 2,
+      "question": "What does the research described in the second paragraph suggest about the brain?",
+      "options": [
+        "It works best when constantly stimulated.",
+        "Creative thinking is linked to quiet, unfocused periods.",
+        "Daydreaming prevents memory consolidation.",
+        "Silence has no measurable effect on brain activity."
+      ],
+      "answer": "B",
+      "explanation": "The default mode network, linked to creative insight, is 'markedly more active during periods of quiet' — the opposite of options A and D, and the paragraph links daydreaming with memory consolidation rather than opposing them."
+    },
+    {
+      "number": 3,
+      "question": "What is suggested about novelists and composers in the third paragraph?",
+      "options": [
+        "They were the first to study the effects of silence scientifically.",
+        "Their need for quiet is a long-established, unsurprising fact.",
+        "They no longer require silence to work effectively.",
+        "Employers have copied their exact working methods."
+      ],
+      "answer": "B",
+      "explanation": "The text says this research 'would not greatly surprise' them, since they have 'long insisted' on silence to work — it's presented as already well known, not a scientific discovery of theirs."
+    },
+    {
+      "number": 4,
+      "question": "According to the fourth paragraph, what is NOT yet clear about the 'quiet rooms'?",
+      "options": [
+        "Whether employees actually use them.",
+        "Whether they are popular with staff.",
+        "What specifically causes the reported benefits.",
+        "Whether staff are allowed to use them regularly."
+      ],
+      "answer": "C",
+      "explanation": "The text says it is unclear 'whether this is down to the silence itself, the permission to pause, or simply the novelty' — i.e. the cause of the benefit, not whether the rooms are used or allowed."
+    },
+    {
+      "number": 5,
+      "question": "Which of the following best describes the sceptics' second argument (paragraph 5)?",
+      "options": [
+        "Silence is universally uncomfortable.",
+        "Access to quiet is unevenly distributed and tied to privilege.",
+        "Open-plan offices should be abolished.",
+        "Background noise should be banned in workplaces."
+      ],
+      "answer": "B",
+      "explanation": "The second point made is that 'the ability to retreat into quiet is itself a form of privilege', tied to work and living conditions — not a claim about offices or banning noise."
+    },
+    {
+      "number": 6,
+      "question": "What is the writer's overall purpose in the final paragraph?",
+      "options": [
+        "To dismiss the sceptics' objections entirely.",
+        "To argue that only wealthy people deserve silence.",
+        "To present silence as a serious issue linked to social inequality.",
+        "To recommend that all employers install quiet rooms."
+      ],
+      "answer": "C",
+      "explanation": "The writer concludes that silence's 'uneven distribution says something uncomfortable about how modern life is organised' — framing it as a matter of inequality worth taking seriously, without dismissing sceptics or prescribing a specific policy."
+    }
+  ]
+}

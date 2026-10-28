@@ -1,0 +1,9 @@
+{
+  "id": "wr-c2-report-1",
+  "level": "C2",
+  "taskType": "report",
+  "title": "Report: Conversation-Practice Sessions",
+  "prompt": "You have been asked by the director of studies at the language school where you study to write a report assessing the effectiveness of the school's current conversation-practice sessions and recommending improvements.\n\nWrite your report in 280-320 words.",
+  "wordCountRange": [280, 320],
+  "notes": "C2 bar: precise, formal register sustained throughout; well-chosen headings that organise genuinely distinct content rather than padding; recommendations that follow clearly and specifically from evidence/points raised earlier in the report, not generic suggestions; natural use of more formal/academic structures (e.g. nominalisation, passive voice where appropriate) without sounding stilted."
+}

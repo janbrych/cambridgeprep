@@ -1,0 +1,9 @@
+{
+  "id": "wr-c1-report-1",
+  "level": "C1",
+  "taskType": "report",
+  "title": "Report: Working from Home Proposal",
+  "prompt": "You work for a company that is considering offering employees the option to work from home two days a week. Your manager has asked you to write a report evaluating the advantages and disadvantages of this proposal and making recommendations.\n\nWrite your report in 220-260 words.",
+  "wordCountRange": [220, 260],
+  "notes": "Look for: a short, appropriately formal/semi-formal register; clear headed sections (e.g. Introduction, Advantages, Disadvantages, Recommendations) rather than essay-style paragraphs; objective, impersonal language (avoid 'I think'); specific, plausible points rather than generic ones; a clear final recommendation that follows logically from the points raised."
+}

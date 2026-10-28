@@ -1,0 +1,70 @@
+{
+  "id": "gt-c1-3",
+  "level": "C1",
+  "part": "gapped_text",
+  "title": "The Psychology of Nostalgia",
+  "instructions": "Six paragraphs have been removed from the text below. Choose from the paragraphs A-G the one which fits each gap (1-6). There is one extra paragraph which you do not need to use.",
+  "passage": "For much of the twentieth century, nostalgia carried a faintly negative connotation among psychologists, who tended to regard it as a kind of sentimental avoidance - a reluctance to engage with the present dressed up as fondness for the past.\n\n[1]\n\nThat view has been substantially revised over the past two decades. A growing body of research now treats nostalgia not as a symptom to be managed but as a genuinely useful psychological tool, one that people reach for, consciously or not, at fairly predictable moments.\n\n[2]\n\nChief among these moments is loneliness. Experiments in which participants are made to feel briefly excluded or isolated reliably trigger an increase in nostalgic thinking, as though the mind were reaching backward for a sense of connection it cannot currently find in the present.\n\n[3]\n\nNostalgic memories themselves tend to share a distinctive shape: they are rarely about achievements or possessions, but almost always about other people - a childhood friendship, a family gathering, a first romantic relationship.\n\n[4]\n\nThis social core may explain why nostalgia reliably improves mood, even though the memories themselves are sometimes bittersweet. Recalling a cherished but now-impossible moment seems to reassure people that they are, and have always been, capable of forming meaningful bonds.\n\n[5]\n\nInterestingly, nostalgia also appears to make people more generous and more tolerant of outsiders, at least in the short term immediately following a bout of reminiscing. Several studies have found increased willingness to donate to charity or volunteer time shortly after participants were asked to recall a nostalgic memory.\n\n[6]\n\nNone of this means nostalgia is without its downsides; dwelling on it too persistently has been linked in some studies to reduced motivation to pursue new goals. But as a brief, occasional visit rather than a permanent residence, the past, it turns out, can be a remarkably useful place to return to.",
+  "paragraphs": [
+    {
+      "letter": "A",
+      "text": "Early psychoanalytic writing, in particular, tended to frame nostalgia almost as a disorder, something closer to homesickness or grief than a healthy, ordinary emotional response."
+    },
+    {
+      "letter": "B",
+      "text": "Rather than functioning as an escape from an unsatisfying present, it increasingly looks like a resource the mind deploys specifically to cope with one."
+    },
+    {
+      "letter": "C",
+      "text": "Transitions and anniversaries produce a similar effect, which is one reason graduation ceremonies, significant birthdays and the turn of a new year so reliably prompt people to reminisce."
+    },
+    {
+      "letter": "D",
+      "text": "Even nostalgia for a place, researchers note, is rarely really about the location itself so much as about who was there at the time."
+    },
+    {
+      "letter": "E",
+      "text": "That reassurance, some psychologists argue, does not stay narrowly focused on the people in the memory itself; it appears to spill outward, loosening a person's guardedness towards others more generally."
+    },
+    {
+      "letter": "F",
+      "text": "One study found that participants who had just written about a nostalgic memory gave away nearly twice as much money in a laboratory task as those who had written about an ordinary recent event."
+    },
+    {
+      "letter": "G",
+      "text": "Marketing researchers, keen to exploit the phenomenon, have found that adverts deliberately evoking nostalgia for a brand's own history tend to perform especially well among older consumers."
+    }
+  ],
+  "answers": [
+    {
+      "gapNumber": 1,
+      "letter": "A",
+      "explanation": "A elaborates on the negative historical framing just described, giving a specific source (psychoanalytic writing) for the view that 'That view' in the next paragraph goes on to say has been revised."
+    },
+    {
+      "gapNumber": 2,
+      "letter": "B",
+      "explanation": "B directly reframes nostalgia from 'escape' to 'coping resource', matching the shift from 'symptom' to 'useful tool' just introduced, and sets up the 'predictable moments' discussed next."
+    },
+    {
+      "gapNumber": 3,
+      "letter": "C",
+      "explanation": "C adds a second trigger ('a similar effect') alongside the loneliness just discussed, before the text moves on to describe what the memories themselves are like."
+    },
+    {
+      "gapNumber": 4,
+      "letter": "D",
+      "explanation": "D reinforces the point that nostalgic memories are 'almost always about other people' by extending it to an example (place nostalgia) that might seem to be an exception but isn't."
+    },
+    {
+      "gapNumber": 5,
+      "letter": "E",
+      "explanation": "E's 'that reassurance' refers back to the sense of being 'capable of forming meaningful bonds' just mentioned, and bridges to the next paragraph's claim about generosity towards outsiders by explaining how the effect 'spills outward'."
+    },
+    {
+      "gapNumber": 6,
+      "letter": "F",
+      "explanation": "F provides the concrete study evidence for the claim just made about 'increased willingness to donate to charity', giving a specific, measurable result."
+    }
+  ]
+}

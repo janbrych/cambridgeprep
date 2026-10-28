@@ -1,0 +1,70 @@
+{
+  "id": "gt-c1-2",
+  "level": "C1",
+  "part": "gapped_text",
+  "title": "The Revival of Tabletop Board Games",
+  "instructions": "Six paragraphs have been removed from the text below. Choose from the paragraphs A-G the one which fits each gap (1-6). There is one extra paragraph which you do not need to use.",
+  "passage": "For a hobby once associated with dusty cardboard boxes gathering mould in attics, tabletop board gaming has enjoyed a strikingly unlikely renaissance. Specialist cafes where customers pay a small fee to borrow from shelves of hundreds of titles have sprung up in cities worldwide, and crowdfunding campaigns for new games now regularly raise sums that would have seemed unthinkable a decade ago.\n\n[1]\n\nMuch of this growth has been driven by a wave of design innovation. Where the board games of previous generations were often slow, luck-dependent affairs - won or lost largely by the roll of a dice - contemporary designers have borrowed techniques from video games to build in meaningful choice at almost every turn.\n\n[2]\n\nThis shift in design philosophy has, in turn, reshaped who plays. Where board gaming was once a pastime with a reputation for appealing mainly to a narrow demographic, publishers report that their customer base now skews markedly more balanced, in both gender and age.\n\n[3]\n\nThe pandemic years, somewhat unexpectedly, gave the hobby a further boost. With travel and indoor socialising curtailed, many households turned to board games as a way of spending an evening together without a screen involved, and plenty never fully reverted to their previous habits once restrictions lifted.\n\n[4]\n\nNone of this has gone unnoticed by investors. Venture capital has begun flowing into game publishers and the cafes that showcase their products, chasing a market that analysts had long written off as a declining curiosity.\n\n[5]\n\nEven so, the hobby retains a distinctly artisanal streak that sets it apart from most other forms of entertainment experiencing a resurgence. Individual designers, often working alone or in small teams, remain responsible for many of the genre's best-loved titles.\n\n[6]\n\nWhatever combination of nostalgia, design innovation and pandemic habit is ultimately responsible, board gaming shows no sign of returning to its former status as a niche, dust-collecting pursuit.",
+  "paragraphs": [
+    {
+      "letter": "A",
+      "text": "One widely cited example is a game built around resource management on a fictional island, which raised several million dollars from backers before a single physical copy had been produced."
+    },
+    {
+      "letter": "B",
+      "text": "Games now frequently reward careful planning, negotiation and foresight, giving players a genuine sense that their decisions, rather than the dice, determined the outcome."
+    },
+    {
+      "letter": "C",
+      "text": "Marketing material that once featured almost exclusively young men now just as often depicts mixed groups of friends, couples and even multigenerational families gathered around a table."
+    },
+    {
+      "letter": "D",
+      "text": "Surveys conducted by industry bodies suggest that a sizeable minority of new players picked up their first board game specifically during lockdown and have continued buying new titles ever since."
+    },
+    {
+      "letter": "E",
+      "text": "Some of these investors are now reportedly eyeing the cafes themselves as a franchise opportunity, hoping to replicate a single successful outlet's takings across dozens of new locations."
+    },
+    {
+      "letter": "F",
+      "text": "A single person sketching rules on index cards at a kitchen table can, within a few years and with the right combination of luck and craft, see their creation translated into a dozen languages and sold in hundreds of thousands of copies."
+    },
+    {
+      "letter": "G",
+      "text": "Chess and other classic abstract strategy games, by contrast, have seen comparatively little change in their core audience over the same period, remaining a fairly stable, if modest, niche."
+    }
+  ],
+  "answers": [
+    {
+      "gapNumber": 1,
+      "letter": "A",
+      "explanation": "A gives a concrete example of a crowdfunded game raising a large sum, directly illustrating the claim just made about crowdfunding totals being 'unthinkable a decade ago'."
+    },
+    {
+      "gapNumber": 2,
+      "letter": "B",
+      "explanation": "B elaborates on the 'meaningful choice' just mentioned, explaining specifically how modern games reward planning rather than luck, before the next paragraph pivots to who plays them."
+    },
+    {
+      "gapNumber": 3,
+      "letter": "C",
+      "explanation": "C gives a concrete illustration of the broadened demographic ('markedly more balanced') just described, contrasting old and new marketing imagery."
+    },
+    {
+      "gapNumber": 4,
+      "letter": "D",
+      "explanation": "D supports the claim that 'plenty never fully reverted to their previous habits', citing survey evidence of pandemic-era players who kept buying games afterwards."
+    },
+    {
+      "gapNumber": 5,
+      "letter": "E",
+      "explanation": "E continues the investor theme just introduced, describing a specific form that this investment interest ('venture capital... flowing into') is taking."
+    },
+    {
+      "gapNumber": 6,
+      "letter": "F",
+      "explanation": "F gives a concrete illustration of the 'individual designers... working alone' just mentioned, describing exactly this kind of small-scale success story."
+    }
+  ]
+}

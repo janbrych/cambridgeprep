@@ -1,0 +1,70 @@
+{
+  "id": "gt-c1-1",
+  "level": "C1",
+  "part": "gapped_text",
+  "title": "The Unlikely Comeback of Vinyl",
+  "instructions": "Six paragraphs have been removed from the text below. Choose from the paragraphs A-G the one which fits each gap (1-6). There is one extra paragraph which you do not need to use.",
+  "passage": "For a format that was declared commercially dead by the mid-1990s, the vinyl record has staged a remarkable recovery. Annual sales, which had dwindled to a few hundred thousand units in rich-world markets, now regularly exceed forty million, and show no sign of slowing.\n\n[1]\n\nIndustry analysts initially assumed this was simple nostalgia: ageing collectors replacing records lost or damaged decades earlier. The data, however, tell a different story.\n\n[2]\n\nPressing plants, many of which closed in the 1990s and had to be laboriously reassembled from salvaged parts, are now running at full capacity around the clock. Several have waiting lists stretching well over a year.\n\n[3]\n\nThis bottleneck has had an unexpected side effect: major labels, once content to let independent pressing plants handle reissues, are now building their own facilities, determined not to be held hostage to someone else's production schedule.\n\n[4]\n\nNot everyone in the industry is celebrating. Smaller, independent labels complain that they are routinely pushed to the back of the queue whenever a major label needs capacity for a lucrative anniversary reissue.\n\n[5]\n\nStreaming services, meanwhile, have proved unexpectedly complementary rather than competitive. Listeners increasingly use subscription platforms to discover an artist, then buy the vinyl as a physical, durable statement of allegiance.\n\n[6]\n\nWhatever the underlying mix of motives, the format's resurgence shows no sign of being a passing fad. If anything, demand continues to outstrip the industry's creaking capacity to supply it.",
+  "paragraphs": [
+    {
+      "letter": "A",
+      "text": "Surveys of buyers consistently find that a majority are under thirty-five, many of them purchasing their very first turntable alongside their first record. For this younger cohort, vinyl appears to function less as nostalgia and more as a deliberate, tactile alternative to the disembodied experience of streaming."
+    },
+    {
+      "letter": "B",
+      "text": "One label executive described the situation bluntly: relying on external pressing plants had become 'a single point of failure' for an entire release calendar, and the solution, however expensive, was to bring production back in house."
+    },
+    {
+      "letter": "C",
+      "text": "The result, they argue, is a two-tier system in which the artists who would benefit most from a modest vinyl run - new or niche acts without a back catalogue of reissues to fall back on - are precisely the ones least likely to get a pressing slot."
+    },
+    {
+      "letter": "D",
+      "text": "For an artist's merchandise table, a record now serves much the same function a concert T-shirt once did: a physical souvenir that a digital stream, however convenient, simply cannot replicate."
+    },
+    {
+      "letter": "E",
+      "text": "That demand has collided head-on with a supply chain that was never rebuilt to modern specifications, since almost no new pressing machinery was manufactured for the better part of three decades."
+    },
+    {
+      "letter": "F",
+      "text": "In some countries, vinyl has even begun outselling CDs for the first time since the format's original decline - a milestone few industry veterans would have predicted a decade ago."
+    },
+    {
+      "letter": "G",
+      "text": "CDs, by contrast, have never recovered anything like the same cachet, and are now largely confined to budget retailers and charity shop shelves, bought mostly out of simple convenience rather than any sense of collectability."
+    }
+  ],
+  "answers": [
+    {
+      "gapNumber": 1,
+      "letter": "F",
+      "explanation": "F gives a concrete milestone (outselling CDs) that follows naturally from the growth statistics just given, and leads into the industry's reaction described next."
+    },
+    {
+      "gapNumber": 2,
+      "letter": "A",
+      "explanation": "A directly supplies the 'different story' promised in the previous sentence: data about who is actually buying (younger, first-time buyers), contradicting the nostalgia theory."
+    },
+    {
+      "gapNumber": 3,
+      "letter": "E",
+      "explanation": "E explains why pressing plants (just described) are so overloaded — demand colliding with a never-modernised supply chain — which is then referred to as 'this bottleneck' in the next paragraph."
+    },
+    {
+      "gapNumber": 4,
+      "letter": "B",
+      "explanation": "B adds a quote that illustrates exactly why major labels are 'building their own facilities', the point made in the preceding paragraph."
+    },
+    {
+      "gapNumber": 5,
+      "letter": "C",
+      "explanation": "C's 'the result' directly continues the independent labels' complaint about being pushed to the back of the queue, introduced just before the gap."
+    },
+    {
+      "gapNumber": 6,
+      "letter": "D",
+      "explanation": "D expands on the 'physical, durable statement of allegiance' idea from the previous paragraph with the merchandise/T-shirt comparison."
+    }
+  ]
+}

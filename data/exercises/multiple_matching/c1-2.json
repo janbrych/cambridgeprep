@@ -1,0 +1,53 @@
+{
+  "id": "mm-c1-2",
+  "level": "C1",
+  "part": "multiple_matching",
+  "title": "Changing Career in Midlife",
+  "instructions": "You are going to read an article in which four people talk about changing career in midlife. For questions 1-10, choose from the people (A-D). Each person may be chosen more than once.",
+  "sections": [
+    {
+      "letter": "A",
+      "heading": "Helena",
+      "text": "I spent nearly twenty years as a corporate lawyer before retraining as a carpenter in my mid-forties. The decision followed a minor heart scare that, in hindsight, forced me to ask whether I actually wanted to spend the rest of my career drafting contracts. Learning the trade properly meant two years at evening classes alongside apprentices half my age, which was humbling but never once made me want to quit. What surprised me most was how much I still rely on the attention to detail I developed as a lawyer - a precisely cut joint and a watertight contract, it turns out, reward the same kind of mind. My old firm's partners were polite about the change but clearly thought I'd lost my senses; a few still ask, half-joking, when I'm 'coming back to my senses'. Financially, the first two years were genuinely tight, and I wouldn't recommend the leap to anyone without some savings set aside first."
+    },
+    {
+      "letter": "B",
+      "heading": "Dimitri",
+      "text": "After twelve years in the army, I retrained as a primary school teacher, a shift that surprised absolutely everyone who knew me, myself included. My partner was the one who first suggested it, pointing out that I'd always lit up describing things to my younger cousins, and she pushed me to apply for the training course when my own nerve nearly failed. The qualification took eighteen months of full-time study, including a return to subjects like basic science I hadn't touched since I was a teenager myself. What I miss least is the status that came with military rank; what I miss most, oddly, is the camaraderie, though I'm slowly rebuilding something similar with colleagues in the staffroom. If I'm honest, I wish I'd made the move five years earlier than I did, rather than talking myself out of it repeatedly."
+    },
+    {
+      "letter": "C",
+      "heading": "Fatima",
+      "text": "I qualified as an accountant straight out of university and spent fifteen years in the profession before opening a small bakery, something I'd only ever done as a hobby before. No formal retraining was required, strictly speaking, since I'd already taught myself to bake from books and endless trial and error over the years, but I did take a short food hygiene course before opening. My parents, both immigrants who had always stressed financial security, were quietly horrified at first and took a long time to come round to the idea. The bookkeeping skills from my old career have turned out to be unexpectedly useful for running a small business, even if nothing else from that life carried over directly. What took the most adjustment was being on my feet kneading dough for ten hours a day after a career spent almost entirely at a desk, though I came to enjoy the physical tiredness far more than I expected."
+    },
+    {
+      "letter": "D",
+      "heading": "Noah",
+      "text": "I left a senior role at a technology company to become a ranger at a wildlife park, a decision several former colleagues described, not unkindly, as a kind of early-life crisis. There was no single triggering event; it was more a slow accumulation of dissatisfaction with spending entire days indoors in meetings about products I didn't especially care about. Becoming a ranger required a full year of practical training in animal handling and conservation work, most of it outdoors in weather I would once have considered a good reason to work from home instead. The pay cut was substantial, and I won't pretend the first year wasn't a financial strain, but my family had been encouraging me to make some kind of change for years and were fully behind the decision once I finally made it. The single piece of advice I'd give anyone considering something similar is to shadow someone in the new role first, if at all possible, before committing."
+    }
+  ],
+  "questions": [
+    { "number": 1, "question": "was prompted to change career by a health-related event?" },
+    { "number": 2, "question": "says a family member suggested the new career before they had considered it themselves?" },
+    { "number": 3, "question": "needed little formal retraining because of relevant experience already gained through a hobby?" },
+    { "number": 4, "question": "says there was no single event that triggered the decision to change career?" },
+    { "number": 5, "question": "found that a specific personal quality from their old profession mattered just as much in a very different trade?" },
+    { "number": 6, "question": "admits wishing they had made the career change sooner than they did?" },
+    { "number": 7, "question": "found unexpected enjoyment in the physical demands of the new job?" },
+    { "number": 8, "question": "says former colleagues were polite about the decision while clearly doubting it made sense?" },
+    { "number": 9, "question": "mentions that close family members took time to accept the decision?" },
+    { "number": 10, "question": "advises anyone considering a similar change to experience the new role firsthand before committing?" }
+  ],
+  "answers": [
+    { "questionNumber": 1, "letter": "A", "explanation": "Helena says the decision 'followed a minor heart scare' that made her question her career." },
+    { "questionNumber": 2, "letter": "B", "explanation": "Dimitri says his partner 'was the one who first suggested it' before he had considered teaching himself." },
+    { "questionNumber": 3, "letter": "C", "explanation": "Fatima says 'no formal retraining was required, strictly speaking' because she had already taught herself to bake as a hobby." },
+    { "questionNumber": 4, "letter": "D", "explanation": "Noah explicitly says 'there was no single triggering event; it was more a slow accumulation of dissatisfaction'." },
+    { "questionNumber": 5, "letter": "A", "explanation": "Helena says the 'attention to detail' she developed as a lawyer turned out to matter just as much in carpentry." },
+    { "questionNumber": 6, "letter": "B", "explanation": "Dimitri says he wishes he 'had made the move five years earlier' instead of delaying." },
+    { "questionNumber": 7, "letter": "C", "explanation": "Fatima says she 'came to enjoy the physical tiredness far more than I expected', despite it being the hardest adjustment." },
+    { "questionNumber": 8, "letter": "A", "explanation": "Helena's former colleagues 'were polite about the change but clearly thought I'd lost my senses'." },
+    { "questionNumber": 9, "letter": "C", "explanation": "Fatima's parents 'were quietly horrified at first and took a long time to come round to the idea'." },
+    { "questionNumber": 10, "letter": "D", "explanation": "Noah advises anyone considering a similar change 'to shadow someone in the new role first... before committing'." }
+  ]
+}

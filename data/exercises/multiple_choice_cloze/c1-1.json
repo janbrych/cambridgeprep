@@ -1,0 +1,58 @@
+{
+  "id": "mcc-c1-1",
+  "level": "C1",
+  "part": "multiple_choice_cloze",
+  "title": "The Rise of Urban Beekeeping",
+  "instructions": "For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap.",
+  "passage": "Over the past decade, the practice of keeping bees on the roofs and balconies of cities has (1)___ dramatically, turning what was once a fringe pursuit into a fully-fledged urban movement complete with its own retailers, support groups and city registration schemes.\n\nAdvocates (2)___ that cities offer a surprisingly bee-friendly habitat: parks, gardens and untended verges supply a wider range of pollen than the monoculture fields that increasingly (3)___ the countryside, meaning urban honey is often richer in flavour than its rural counterpart.\n\nNot everyone is convinced, however. Some ecologists have (4)___ warnings that cramming too many honeybee colonies into a small area can (5)___ out native, wild pollinators that are already under pressure from habitat loss.\n\nCouncils have responded by trying to strike a balance, (6)___ guidelines that cap the number of hives per site and encourage newcomers to plant wildflowers rather than simply (7)___ up another colony. For now, demand for beekeeping courses in major cities shows no sign of (8)___, and the rooftop hive looks set to remain a familiar, if contested, fixture of the city skyline.",
+  "questions": [
+    {
+      "number": 1,
+      "options": ["soared", "raised", "heightened", "enlarged"],
+      "answer": "A",
+      "explanation": "'Soared dramatically' is the natural collocation for a sharp, intransitive increase. 'Raised' and 'enlarged' need a direct object (you raise/enlarge something), and 'heightened' is normally used with abstract nouns like awareness or tension, not with a practice growing in popularity."
+    },
+    {
+      "number": 2,
+      "options": ["contend", "pretend", "intend", "extend"],
+      "answer": "A",
+      "explanation": "'Contend that' means to argue or assert, which fits the context. The other three words share the same ending but have unrelated meanings: 'pretend' (fake), 'intend' (plan to), 'extend' (make longer/bigger)."
+    },
+    {
+      "number": 3,
+      "options": ["dominate", "exceed", "surpass", "overtake"],
+      "answer": "A",
+      "explanation": "'Dominate the countryside' is the fitting collocation for fields covering most of the landscape. 'Exceed', 'surpass' and 'overtake' all relate to going beyond a measurable amount or rank, not to physically covering an area."
+    },
+    {
+      "number": 4,
+      "options": ["issued", "emitted", "admitted", "permitted"],
+      "answer": "A",
+      "explanation": "'Issue a warning' is a fixed collocation. 'Emitted' is used for gases, light or sound; 'admitted' means confessed; 'permitted' means allowed — none fit the idea of putting out a formal warning."
+    },
+    {
+      "number": 5,
+      "options": ["crowd", "block", "shove", "force"],
+      "answer": "A",
+      "explanation": "'Crowd out' precisely describes taking up all the available space or resources so something else cannot survive or compete — the intended ecological meaning. 'Block out' refers to obstructing light or noise; 'shove out' is informal and too physical; 'force out' implies a deliberate, confrontational expulsion rather than competition for resources."
+    },
+    {
+      "number": 6,
+      "options": ["drawing up", "drawing out", "drawing in", "drawing on"],
+      "answer": "A",
+      "explanation": "'Draw up guidelines/a plan/a contract' is the standard collocation for formally preparing a document. 'Draw out' means to prolong; 'draw in' can mean to attract or (of days) to shorten; 'draw on' means to make use of a resource."
+    },
+    {
+      "number": 7,
+      "options": ["setting", "putting", "bringing", "taking"],
+      "answer": "A",
+      "explanation": "'Set up a colony' means to establish it. 'Put up' usually means to erect something or to tolerate something ('put up with'); 'bring up' means to raise a topic or a child; 'take up' fits starting a hobby, not establishing a colony of bees."
+    },
+    {
+      "number": 8,
+      "options": ["easing off", "catching up", "picking out", "falling behind"],
+      "answer": "A",
+      "explanation": "'Show no sign of easing off' means the demand is not weakening, which matches the final sentence about beekeeping remaining popular. 'Catch up', 'pick out' and 'fall behind' do not collocate with 'demand' in this way."
+    }
+  ]
+}

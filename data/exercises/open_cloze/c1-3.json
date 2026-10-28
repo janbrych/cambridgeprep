@@ -1,0 +1,51 @@
+{
+  "id": "oc-c1-3",
+  "level": "C1",
+  "part": "open_cloze",
+  "title": "The Psychology of Collecting",
+  "instructions": "For questions 1-8, read the text below and think of the word which best fits each gap. Use only one word in each gap.",
+  "passage": "Almost everyone, at some point in their life, has collected something, (1)___ it stamps, football cards or, in adulthood, vintage watches. Psychologists have long been curious (2)___ what drives this apparently universal urge.\n\nOne theory holds that collecting offers a sense of control (3)___ an otherwise unpredictable world: a complete set, however trivial the objects within it, is a small, achievable goal in a way that most of life is not. (4)___ said, the pleasure rarely lies in completion itself, since many collectors report feeling oddly deflated (5)___ they finally track down the one missing item.\n\n(6)___ interesting is the social dimension collecting can acquire: swap meets, online forums and specialist fairs allow collectors to turn a private habit (7)___ a shared identity, often among people (8)___ would otherwise have little in common.",
+  "questions": [
+    {
+      "number": 1,
+      "answer": "whether",
+      "explanation": "'Whether X, Y or Z' introduces a list of alternative examples without implying any real doubt or choice."
+    },
+    {
+      "number": 2,
+      "answer": "about",
+      "explanation": "'Curious about' is the fixed adjective + preposition pattern used before a noun clause ('what drives...')."
+    },
+    {
+      "number": 3,
+      "answer": "over",
+      "explanation": "'A sense of control over something' is the standard collocation; 'over' expresses the idea of mastery or influence."
+    },
+    {
+      "number": 4,
+      "answer": "That",
+      "explanation": "'That said' is a fixed concessive phrase meaning 'however', introducing a point that qualifies the previous sentence."
+    },
+    {
+      "number": 5,
+      "answer": "once",
+      "acceptableAnswers": ["when"],
+      "explanation": "'Once' here functions as a time conjunction meaning 'as soon as', introducing the moment the missing item is found."
+    },
+    {
+      "number": 6,
+      "answer": "Equally",
+      "explanation": "'Equally interesting is X' is an inverted structure (adjective phrase + verb + subject) used for emphasis, parallel to 'X is equally interesting'."
+    },
+    {
+      "number": 7,
+      "answer": "into",
+      "explanation": "'Turn X into Y' is a fixed pattern meaning to transform one thing into another."
+    },
+    {
+      "number": 8,
+      "answer": "who",
+      "explanation": "A relative pronoun referring to people is needed as the subject of 'would otherwise have little in common'."
+    }
+  ]
+}

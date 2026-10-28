@@ -1,0 +1,58 @@
+{
+  "id": "wf-c1-3",
+  "level": "C1",
+  "part": "word_formation",
+  "title": "Citizen Science and Amateur Astronomy",
+  "instructions": "For questions 1-8, read the text below. Use the word given in capitals at the end of each line to form a word that fits in the gap in the same line.",
+  "passage": "Long before professional observatories dominated the field, (1)___ astronomers were already responsible for a surprising number of significant discoveries, and the tradition has never entirely died out. Today, thanks to affordable telescopes and online (2)___ platforms, this grassroots movement is thriving.\n\nVolunteers now routinely comb through images for supernovae, classify distant galaxies by shape, and flag (3)___ patterns in starlight that might indicate an undiscovered planet. Professional astronomers, whose time is too (4)___ to examine every image individually, increasingly depend on this volunteer workforce to sift through overwhelming quantities of data.\n\nOne amateur in the Netherlands became something of a minor celebrity after her (5)___ discovery of a previously unknown exoplanet candidate made international headlines. Sceptics initially worried that crowdsourced data would prove unreliable, riddled with (6)___ identifications made by well-meaning but untrained eyes.\n\nSeveral peer-reviewed papers have since (7)___ volunteer contributions in their acknowledgements, a level of formal recognition that would have seemed unthinkable a generation ago. For an increasing number of participants, the appeal lies not in fame but in the simple (8)___ of contributing to real scientific research from their own backyard.",
+  "questions": [
+    {
+      "number": 1,
+      "root": "DEDICATE",
+      "answer": "dedicated",
+      "explanation": "The adjective 'dedicated' (= committed to something) fits before 'astronomers', describing people devoted to the pursuit without being professionals."
+    },
+    {
+      "number": 2,
+      "root": "COLLABORATE",
+      "answer": "collaboration",
+      "explanation": "The noun 'collaboration' is used attributively before 'platforms' to describe tools designed for people to work together online."
+    },
+    {
+      "number": 3,
+      "root": "USUAL",
+      "answer": "unusual",
+      "explanation": "The negative prefix 'un-' gives 'unusual', fitting patterns in starlight that stand out as different from the norm and might signal a planet."
+    },
+    {
+      "number": 4,
+      "root": "LIMIT",
+      "answer": "limited",
+      "explanation": "The adjective 'limited' fits after 'too', describing astronomers' time as insufficient for examining every image personally."
+    },
+    {
+      "number": 5,
+      "root": "ACCIDENT",
+      "answer": "accidental",
+      "explanation": "The adjective 'accidental' (= happening by chance) fits before 'discovery', describing a find that was not deliberately sought."
+    },
+    {
+      "number": 6,
+      "root": "ERROR",
+      "answer": "erroneous",
+      "explanation": "The adjective 'erroneous' (= incorrect) fits 'riddled with ___ identifications', describing mistaken classifications made by untrained volunteers."
+    },
+    {
+      "number": 7,
+      "root": "KNOWLEDGE",
+      "answer": "acknowledged",
+      "explanation": "The verb 'acknowledged', in its past tense form, fits after 'have since', describing papers formally recognising volunteer contributions."
+    },
+    {
+      "number": 8,
+      "root": "SATISFY",
+      "answer": "satisfaction",
+      "explanation": "The noun 'satisfaction' fits after 'simple', describing the rewarding feeling of contributing to research rather than seeking fame."
+    }
+  ]
+}

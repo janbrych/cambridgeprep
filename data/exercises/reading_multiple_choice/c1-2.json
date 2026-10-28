@@ -1,0 +1,82 @@
+{
+  "id": "rmc-c1-2",
+  "level": "C1",
+  "part": "reading_multiple_choice",
+  "title": "Keeping Time Together: A History of the Public Clock",
+  "instructions": "For questions 1-6, read the text below and answer the questions by choosing A, B, C or D.",
+  "passage": "Before affordable personal watches existed, how did ordinary people know what time it was? The answer, for centuries, was that they looked up - at a church tower, a town hall, or, later, a railway station - rather than down at their own wrist. Public clocks were not a convenience; they were often the only timekeeping device a community had, and their accuracy, or lack of it, could shape the rhythm of an entire town.\n\nThe spread of these clocks says as much about social organisation as about engineering. In medieval Europe, monasteries had long used bells to mark the hours of prayer, but it was the rise of commerce that truly demanded a shared, public sense of time: merchants needed to agree when a market opened and closed, and workers needed a signal for when a shift began. A clock visible from the street solved a coordination problem that no amount of individual timekeeping could.\n\nRailways transformed the stakes considerably. Before the mid-nineteenth century, towns a few hundred kilometres apart might set their clocks to slightly different local times, calculated from the sun's position overhead - a system that caused no great inconvenience as long as nobody needed to travel quickly between them. Once trains began connecting distant towns within hours rather than days, these small discrepancies became genuinely dangerous: two trains scheduled according to different local times could end up on the same stretch of track at what each driver believed to be a safe interval apart. Standardised time zones were, in large part, the railway's solution to this problem.\n\nEven after wristwatches became cheap and commonplace in the twentieth century, public clocks did not disappear; if anything, they took on a new role, less about telling people the time and more about reassuring them that the time they already knew was correct. A town hall clock running a few minutes fast or slow became a minor local embarrassment, discussed and complained about long after nobody actually depended on it to catch a train.\n\nToday, with every phone silently correcting itself against satellite signals, the public clock's practical usefulness has all but vanished, yet many cities continue to maintain and even restore them at considerable expense. Historians who study these restoration projects suggest that the clocks have quietly swapped one function for another: no longer essential tools, they now serve as civic landmarks, symbols of permanence and continuity in places that change around them in almost every other respect.",
+  "questions": [
+    {
+      "number": 1,
+      "question": "In the first paragraph, the writer makes the point that, before personal watches were common, public clocks were",
+      "options": [
+        "a community's often-only means of knowing the time.",
+        "a decorative feature added to important buildings.",
+        "less accurate than people needed.",
+        "used mainly by merchants rather than ordinary people."
+      ],
+      "answer": "A",
+      "explanation": "The paragraph states clocks were 'often the only timekeeping device a community had' — not described as decorative, not explicitly inaccurate, and used by the whole community rather than just merchants."
+    },
+    {
+      "number": 2,
+      "question": "According to the second paragraph, what mainly drove the spread of public clocks?",
+      "options": [
+        "Monasteries wanting more precise prayer times.",
+        "A need for workers and merchants to share a common sense of time.",
+        "Competition between towns to build the tallest clock tower.",
+        "A decline in the reliability of church bells."
+      ],
+      "answer": "B",
+      "explanation": "The text says 'it was the rise of commerce that truly demanded a shared, public sense of time'; monastery bells are mentioned as already existing beforehand, not as the main driver, and towers/bell reliability aren't discussed."
+    },
+    {
+      "number": 3,
+      "question": "What does the writer say about time differences between towns before standardisation (paragraph 3)?",
+      "options": [
+        "They made rail travel impossible.",
+        "They were deliberately created to confuse rival towns.",
+        "They were barely noticeable until fast travel made them dangerous.",
+        "They were corrected by the first public clocks."
+      ],
+      "answer": "C",
+      "explanation": "The text says the differences 'caused no great inconvenience' until trains made travel fast enough that they became 'genuinely dangerous' — not impossible, not deliberate, and unrelated to the earlier public clocks."
+    },
+    {
+      "number": 4,
+      "question": "In paragraph 4, the writer suggests that once personal watches became common, public clocks",
+      "options": [
+        "quickly fell out of use.",
+        "became more accurate than before.",
+        "were replaced entirely by railway timetables.",
+        "began to serve a different, confirmatory purpose."
+      ],
+      "answer": "D",
+      "explanation": "The text says the clocks 'did not disappear' but 'took on a new role... reassuring' people the time they knew was correct — a confirmatory rather than informative function."
+    },
+    {
+      "number": 5,
+      "question": "Why, according to paragraph 5, do many cities still maintain public clocks today?",
+      "options": [
+        "Because the clocks are now valued mainly as symbolic landmarks.",
+        "Because local laws require it.",
+        "Because tourists complain when they stop working.",
+        "Because smartphones are considered unreliable."
+      ],
+      "answer": "A",
+      "explanation": "The text says the clocks 'now serve as civic landmarks, symbols of permanence and continuity' — nothing is said about laws, tourist complaints, or smartphone reliability."
+    },
+    {
+      "number": 6,
+      "question": "What is the writer's overall purpose in the text?",
+      "options": [
+        "To give detailed technical instructions for building a clock tower.",
+        "To trace how the function of public clocks has changed over time.",
+        "To criticise modern reliance on smartphones for timekeeping.",
+        "To argue that public clocks should be abolished as impractical."
+      ],
+      "answer": "B",
+      "explanation": "The text moves chronologically through the clock's changing role — essential tool, then confirmatory device, then symbolic landmark — rather than giving instructions, criticising smartphones, or arguing for abolition."
+    }
+  ]
+}

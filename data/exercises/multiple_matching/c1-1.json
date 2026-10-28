@@ -1,0 +1,53 @@
+{
+  "id": "mm-c1-1",
+  "level": "C1",
+  "part": "multiple_matching",
+  "title": "Learning a Language as an Adult",
+  "instructions": "You are going to read an article in which four people talk about learning a language as an adult. For questions 1-10, choose from the people (A-D). Each person may be chosen more than once.",
+  "sections": [
+    {
+      "letter": "A",
+      "heading": "Maria",
+      "text": "I moved abroad for work with almost no knowledge of the local language, so for the first few months I had no choice but to muddle through in shops, on the phone, at the doctor's. I dreaded speaking and would often rehearse a sentence for minutes before saying it out loud, convinced I'd get the grammar wrong in front of someone. What changed things was a woman at my local market who, noticing how nervous I was, started slowing down and repeating things patiently every single week, without my ever asking her to. Looking back, that small, unprompted kindness did more for my confidence than any lesson."
+    },
+    {
+      "letter": "B",
+      "heading": "Tomás",
+      "text": "I'm a fairly disciplined learner by nature, so I built a routine around flashcard apps and grammar workbooks, and I genuinely enjoyed working out the patterns - once I understood one rule, the exceptions usually made sense too. Opening my mouth to actually speak was a different matter entirely; my mind would go blank even over simple exchanges. After about a year I lost motivation completely and stopped for several months, convinced I'd plateaued. It was only after a friend invited me to a language exchange evening, almost as an afterthought, that I picked the habit back up and kept going."
+    },
+    {
+      "letter": "C",
+      "heading": "Priya",
+      "text": "My company transferred me to a new regional office, and fluency quickly became a condition of doing my job properly rather than a personal interest. Reading reports and writing emails came reasonably quickly, but following colleagues when they spoke to each other at normal speed left me completely lost for the best part of a year; it was by far the hardest part for me. The moment I realised something had genuinely shifted was waking up one morning remembering that I'd dreamt entirely in the new language - a strange but oddly reassuring sign that it was finally sinking in."
+    },
+    {
+      "letter": "D",
+      "heading": "Oleh",
+      "text": "I never had much patience for textbooks, so I taught myself almost entirely through song lyrics, translating verses I liked and gradually picking up vocabulary that way; new words seemed to stick far more easily than when I tried memorising lists. Formal writing, on the other hand, exposed me completely - emails to officials or anything requiring a serious register left me stuck for the right tone. Eventually I found a tutor who, rather than following any fixed syllabus, built every single lesson specifically around whatever mistakes I'd made that week."
+    }
+  ],
+  "questions": [
+    { "number": 1, "question": "found one particular skill considerably more difficult than the others?" },
+    { "number": 2, "question": "received help from someone they had not asked for assistance?" },
+    { "number": 3, "question": "stopped learning for a period before resuming?" },
+    { "number": 4, "question": "learned largely through an informal, self-devised method?" },
+    { "number": 5, "question": "noticed a particular moment that confirmed real progress had been made?" },
+    { "number": 6, "question": "felt anxious specifically about speaking, despite finding other aspects straightforward?" },
+    { "number": 7, "question": "had a teacher who adapted lessons specifically to their individual errors?" },
+    { "number": 8, "question": "needed the language mainly for professional reasons?" },
+    { "number": 9, "question": "found formal, official writing particularly challenging?" },
+    { "number": 10, "question": "was placed in a situation requiring daily use of the language from early on?" }
+  ],
+  "answers": [
+    { "questionNumber": 1, "letter": "C", "explanation": "Priya says following colleagues at normal speed 'was by far the hardest part for me'." },
+    { "questionNumber": 2, "letter": "A", "explanation": "Maria describes the market woman helping 'without my ever asking her to'." },
+    { "questionNumber": 3, "letter": "B", "explanation": "Tomás 'stopped for several months' before picking the habit back up." },
+    { "questionNumber": 4, "letter": "D", "explanation": "Oleh 'taught myself almost entirely through song lyrics' rather than textbooks or a classroom." },
+    { "questionNumber": 5, "letter": "C", "explanation": "Priya identifies dreaming entirely in the new language as the moment she realised something had shifted." },
+    { "questionNumber": 6, "letter": "B", "explanation": "Tomás found grammar logical ('the exceptions usually made sense') but his mind 'would go blank' when speaking." },
+    { "questionNumber": 7, "letter": "D", "explanation": "Oleh's tutor 'built every single lesson specifically around whatever mistakes I'd made that week'." },
+    { "questionNumber": 8, "letter": "C", "explanation": "Priya needed the language because her company transferred her and fluency became 'a condition of doing my job properly'." },
+    { "questionNumber": 9, "letter": "D", "explanation": "Oleh says formal writing 'exposed me completely' and left him 'stuck for the right tone'." },
+    { "questionNumber": 10, "letter": "A", "explanation": "Maria 'had no choice but to muddle through' daily situations from the first few months after moving abroad." }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "kwt-c2-1",
+  "level": "C2",
+  "part": "key_word_transformation",
+  "title": "Key Word Transformation: Inversion and Emphasis (Set 1)",
+  "instructions": "For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.",
+  "items": [
+    {
+      "number": 1,
+      "sentence1": "Hardly had the announcement been made when share prices began to fall.",
+      "keyword": "NO",
+      "sentence2Prefix": "",
+      "sentence2Suffix": "the announcement been made than share prices began to fall.",
+      "answer": "No sooner had",
+      "explanation": "'No sooner had + subject + past participle...than' is an inverted structure with the same meaning as 'hardly...when'."
+    },
+    {
+      "number": 2,
+      "sentence1": "It was only by sheer luck that nobody was injured in the collapse.",
+      "keyword": "HAD",
+      "sentence2Prefix": "",
+      "sentence2Suffix": "it not been for sheer luck, someone would have been injured in the collapse.",
+      "answer": "Had it not been for",
+      "explanation": "'Had it not been for' is an inverted conditional meaning 'if it hadn't been for', emphasising that luck was the only reason nobody was hurt."
+    },
+    {
+      "number": 3,
+      "sentence1": "The committee's decision was so controversial that it sparked nationwide protests.",
+      "keyword": "SUCH",
+      "sentence2Prefix": "",
+      "sentence2Suffix": "the controversy surrounding the committee's decision that it sparked nationwide protests.",
+      "answer": "Such was",
+      "explanation": "'Such was + noun + that' is an inverted structure equivalent to 'so...that', here used for emphasis."
+    },
+    {
+      "number": 4,
+      "sentence1": "I'd prefer you not to mention this conversation to anyone.",
+      "keyword": "SOONER",
+      "sentence2Prefix": "I",
+      "sentence2Suffix": "mention this conversation to anyone.",
+      "answer": "would sooner you didn't",
+      "explanation": "'Would sooner + subject + past tense' expresses a preference about someone else's action, like 'would rather'."
+    },
+    {
+      "number": 5,
+      "sentence1": "They only found out the truth years later.",
+      "keyword": "UNTIL",
+      "sentence2Prefix": "It",
+      "sentence2Suffix": "that they found out the truth.",
+      "answer": "wasn't until years later",
+      "explanation": "The cleft structure 'It wasn't until...that' emphasises how long it took for the truth to come out."
+    },
+    {
+      "number": 6,
+      "sentence1": "Few people could have predicted how successful the campaign would become.",
+      "keyword": "LITTLE",
+      "sentence2Prefix": "",
+      "sentence2Suffix": "anyone predict how successful the campaign would become.",
+      "answer": "Little did",
+      "explanation": "'Little did + subject + verb' is an inverted structure meaning that something was very unexpected."
+    }
+  ]
+}

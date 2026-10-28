@@ -1,0 +1,9 @@
+{
+  "id": "wr-c1-review-1",
+  "level": "C1",
+  "taskType": "review",
+  "title": "Review: A Documentary That Changed How You Think",
+  "prompt": "You see the following notice on an English-language website:\n\n'We are looking for reviews of a documentary that changed the way you think about a subject. Tell us what the documentary was about, what made it memorable, and whether you would recommend it to others.'\n\nWrite your review in 220-260 words.",
+  "wordCountRange": [220, 260],
+  "notes": "Look for: an engaging opening that doesn't just restate the task; a clear, concise summary of the documentary's subject (not an overlong plot retelling); specific detail on what made it memorable, with evaluative language and varied, precise adjectives beyond 'interesting'/'good'; a clear final recommendation addressed to the reader."
+}

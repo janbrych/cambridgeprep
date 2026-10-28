@@ -1,0 +1,58 @@
+{
+  "id": "mcc-c1-2",
+  "level": "C1",
+  "part": "multiple_choice_cloze",
+  "title": "The Science of Sleep and Dreaming",
+  "instructions": "For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap.",
+  "passage": "For centuries, sleep was widely (1)___ as little more than a nightly shutdown, a passive interval in which the body and mind simply switched off until morning. Brain-imaging studies have since (2)___ this assumption, revealing that several regions of the brain become markedly more active once we drift off than they are during ordinary waking hours.\n\nDreams, once dismissed by many scientists as meaningless static, are now thought to (3)___ a genuine psychological function, helping to sort and consolidate the day's emotional experiences into longer-term memory. Some researchers go further, (4)___ that a vivid dream can defuse the emotional charge of a disturbing memory far more effectively than simply thinking it over while awake.\n\nNot all sleep is equal, however. The deep, slow-wave stages early in the night appear to (5)___ the lion's share of physical repair, while REM sleep, which (6)___ in longer stretches towards morning, seems more closely tied to dreaming and emotional processing. Disrupt either stage too often, sleep scientists warn, and the consequences can (7)___ well beyond simple tiredness, touching mood, memory and even long-term cardiovascular health.\n\nGiven how much now appears to hinge on a good night's rest, it is perhaps unsurprising that advice on how to (8)___ sleep, from blackout curtains to strict bedtimes, has become something of a minor industry in its own right.",
+  "questions": [
+    {
+      "number": 1,
+      "options": ["regarded", "observed", "noticed", "remarked"],
+      "answer": "A",
+      "explanation": "'Regarded as' is the fixed collocation meaning 'considered to be'. 'Observed' and 'noticed' relate to perceiving something, and 'remarked' means commented aloud — none of the three take an 'as' complement with this meaning."
+    },
+    {
+      "number": 2,
+      "options": ["overtaken", "overturned", "overrun", "overlooked"],
+      "answer": "B",
+      "explanation": "'Overturn an assumption' means to reverse or disprove it, fitting evidence that contradicts an old belief. 'Overtaken' means passed while moving; 'overrun' means to exceed a limit or invade; 'overlooked' means failed to notice."
+    },
+    {
+      "number": 3,
+      "options": ["satisfy", "suit", "serve", "service"],
+      "answer": "C",
+      "explanation": "'Serve a function/purpose' is the standard collocation. 'Satisfy' collocates with 'a need' rather than 'a function'; 'suit' means to be convenient for; 'service' as a verb means to maintain machinery."
+    },
+    {
+      "number": 4,
+      "options": ["pretending", "resenting", "intending", "suggesting"],
+      "answer": "D",
+      "explanation": "'Suggesting that' introduces a tentative claim, which fits a researcher's hypothesis. 'Pretending' implies deliberate deception; 'resenting' means feeling bitter; 'intending' is normally followed by 'to + infinitive', not by a 'that' clause like this."
+    },
+    {
+      "number": 5,
+      "options": ["take", "keep", "carry", "hold"],
+      "answer": "A",
+      "explanation": "'Take the lion's share of something' is a fixed idiom meaning to get or do the largest part of it. 'Keep', 'carry' and 'hold' don't combine with 'the lion's share' in this way."
+    },
+    {
+      "number": 6,
+      "options": ["falls", "comes", "turns", "goes"],
+      "answer": "B",
+      "explanation": "'Come in stretches/waves/bursts' is the natural collocation for something occurring in periods of varying length. 'Falls', 'turns' and 'goes' don't combine with 'in stretches' in this sense."
+    },
+    {
+      "number": 7,
+      "options": ["exceed", "excel", "extend", "spread"],
+      "answer": "C",
+      "explanation": "'Extend beyond' means to reach further than a limit. 'Exceed' means to go past a limit but doesn't take 'beyond' (you exceed a limit, not exceed beyond it); 'excel' means to be outstanding at something; 'spread' describes covering an area, not reaching past a conceptual limit."
+    },
+    {
+      "number": 8,
+      "options": ["project", "proceed", "process", "protect"],
+      "answer": "D",
+      "explanation": "'Protect sleep' means to safeguard it from disruption. 'Project' means to forecast or display; 'proceed' means to continue; 'process' means to handle or deal with — all look similar but have unrelated meanings."
+    }
+  ]
+}

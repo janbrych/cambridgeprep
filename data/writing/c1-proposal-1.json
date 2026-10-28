@@ -1,0 +1,9 @@
+{
+  "id": "wr-c1-proposal-1",
+  "level": "C1",
+  "taskType": "proposal",
+  "title": "Proposal: Unused Room at the Community Centre",
+  "prompt": "The management of your local community centre is considering how to make better use of an unused room in the building. They have asked members to submit proposals suggesting how the room could be used and explaining the benefits.\n\nWrite your proposal in 220-260 words.",
+  "wordCountRange": [220, 260],
+  "notes": "Look for: a persuasive, semi-formal register that is actively trying to convince the reader, not just inform them (the key difference from a report); a clear, specific single main suggestion rather than a vague list; a section explaining concrete benefits (to members, finances, community); acknowledgement of practical considerations (cost, space, scheduling) to show the idea is realistic; headed sections are acceptable but not required."
+}

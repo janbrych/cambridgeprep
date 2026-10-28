@@ -1,0 +1,63 @@
+{
+  "id": "kwt-c1-3",
+  "level": "C1",
+  "part": "key_word_transformation",
+  "title": "Key Word Transformation: Set 3",
+  "instructions": "For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.",
+  "items": [
+    {
+      "number": 1,
+      "sentence1": "Whatever method you use, the results will be roughly the same.",
+      "keyword": "MATTER",
+      "sentence2Prefix": "",
+      "sentence2Suffix": "method you use, the results will be roughly the same.",
+      "answer": "No matter what",
+      "explanation": "'No matter what/how/which' means 'regardless of', and functions like 'whatever' + noun at the start of a sentence."
+    },
+    {
+      "number": 2,
+      "sentence1": "If you invest all your savings in a single company, you might lose everything.",
+      "keyword": "RISK",
+      "sentence2Prefix": "By investing all your savings in a single company, you",
+      "sentence2Suffix": "losing everything.",
+      "answer": "run the risk of",
+      "explanation": "'Run the risk of doing something' means to expose yourself to a possible negative outcome; 'of' is followed by the gerund."
+    },
+    {
+      "number": 3,
+      "sentence1": "She used the quiet afternoon to finish all the paperwork she had been putting off.",
+      "keyword": "ADVANTAGE",
+      "sentence2Prefix": "She took",
+      "sentence2Suffix": "finish all the paperwork she had been putting off.",
+      "answer": "advantage of the quiet afternoon to",
+      "explanation": "'Take advantage of something to do something' means to make good use of an opportunity; 'advantage' is the key noun in this fixed pattern."
+    },
+    {
+      "number": 4,
+      "sentence1": "He found it extremely hard to concentrate because of the constant noise outside.",
+      "keyword": "DIFFICULTY",
+      "sentence2Prefix": "He had",
+      "sentence2Suffix": "because of the constant noise outside.",
+      "answer": "considerable difficulty concentrating",
+      "explanation": "'Have difficulty doing something' is the fixed pattern (never 'difficulty to do'); 'considerable' intensifies it to match 'extremely hard'."
+    },
+    {
+      "number": 5,
+      "sentence1": "Over the years, the company gradually forgot its original mission as it focused on profit.",
+      "keyword": "SIGHT",
+      "sentence2Prefix": "Over the years, the company gradually",
+      "sentence2Suffix": "its original mission as it focused on profit.",
+      "answer": "lost sight of",
+      "explanation": "'Lose sight of something' means to forget or stop focusing on an important aim or principle."
+    },
+    {
+      "number": 6,
+      "sentence1": "Although his essay was well argued, I could still criticise a few points of grammar.",
+      "keyword": "FAULT",
+      "sentence2Prefix": "Although his essay was well argued, I could still",
+      "sentence2Suffix": "a few points of grammar.",
+      "answer": "find fault with",
+      "explanation": "'Find fault with something' means to criticise or point out flaws in it."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "kwt-c1-1",
+  "level": "C1",
+  "part": "key_word_transformation",
+  "title": "Key Word Transformation: Set 1",
+  "instructions": "For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.",
+  "items": [
+    {
+      "number": 1,
+      "sentence1": "It's almost certain that she left her phone at the restaurant.",
+      "keyword": "MUST",
+      "sentence2Prefix": "She",
+      "sentence2Suffix": "her phone at the restaurant.",
+      "answer": "must have left",
+      "explanation": "'Must have + past participle' expresses near certainty about a past event."
+    },
+    {
+      "number": 2,
+      "sentence1": "Despite the rain, the match went ahead as planned.",
+      "keyword": "SPITE",
+      "sentence2Prefix": "The match went ahead as planned",
+      "sentence2Suffix": "the rain.",
+      "answer": "in spite of",
+      "explanation": "'In spite of' is a fixed preposition phrase with the same meaning as 'despite', followed by a noun phrase."
+    },
+    {
+      "number": 3,
+      "sentence1": "I would like you to reconsider your decision.",
+      "keyword": "RATHER",
+      "sentence2Prefix": "I",
+      "sentence2Suffix": "your decision.",
+      "answer": "would rather you reconsidered",
+      "explanation": "'Would rather + subject + past tense' is used to say what you want someone else to do."
+    },
+    {
+      "number": 4,
+      "sentence1": "He only realised his mistake when his boss pointed it out.",
+      "keyword": "UNTIL",
+      "sentence2Prefix": "He",
+      "sentence2Suffix": "his boss pointed it out.",
+      "answer": "didn't realise his mistake until",
+      "explanation": "The 'not...until' structure emphasises that something didn't happen before a particular point."
+    },
+    {
+      "number": 5,
+      "sentence1": "No one had ever climbed the peak before Sarah did.",
+      "keyword": "FIRST",
+      "sentence2Prefix": "Sarah",
+      "sentence2Suffix": "climb the peak.",
+      "answer": "was the first person to",
+      "explanation": "'Was the first person to' restates 'no one had ever...before' from the opposite perspective."
+    },
+    {
+      "number": 6,
+      "sentence1": "I regret not having studied harder for the exam.",
+      "keyword": "WISH",
+      "sentence2Prefix": "I",
+      "sentence2Suffix": "harder for the exam.",
+      "answer": "wish I had studied",
+      "explanation": "'Wish + past perfect' expresses regret about something in the past."
+    }
+  ]
+}

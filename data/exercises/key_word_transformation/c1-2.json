@@ -1,0 +1,63 @@
+{
+  "id": "kwt-c1-2",
+  "level": "C1",
+  "part": "key_word_transformation",
+  "title": "Key Word Transformation: Set 2",
+  "instructions": "For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.",
+  "items": [
+    {
+      "number": 1,
+      "sentence1": "The bridge was closed because of structural damage caused by the flood.",
+      "keyword": "RESULT",
+      "sentence2Prefix": "The bridge was closed as a",
+      "sentence2Suffix": "caused by the flood.",
+      "answer": "result of the structural damage",
+      "explanation": "'As a result of' is a fixed phrase meaning 'because of', introducing the cause of the closure."
+    },
+    {
+      "number": 2,
+      "sentence1": "The journalist claimed that the minister had lied to parliament.",
+      "keyword": "ACCUSED",
+      "sentence2Prefix": "The journalist",
+      "sentence2Suffix": "lying to parliament.",
+      "answer": "accused the minister of",
+      "explanation": "'Accuse someone of doing something' is the fixed pattern; the verb after 'of' takes the -ing form ('lying')."
+    },
+    {
+      "number": 3,
+      "sentence1": "Continuing to argue about this is pointless, since neither of us will change our mind.",
+      "keyword": "POINT",
+      "sentence2Prefix": "There is no",
+      "sentence2Suffix": "about this, since neither of us will change our mind.",
+      "answer": "point in arguing",
+      "explanation": "'There is no point in doing something' means it is pointless; 'in' is followed by the gerund ('arguing')."
+    },
+    {
+      "number": 4,
+      "sentence1": "Heavy traffic meant that she could not arrive on time.",
+      "keyword": "PREVENT",
+      "sentence2Prefix": "Heavy traffic",
+      "sentence2Suffix": "arriving on time.",
+      "answer": "prevented her from",
+      "explanation": "'Prevent someone from doing something' is the fixed pattern; 'from' is followed by the gerund."
+    },
+    {
+      "number": 5,
+      "sentence1": "The research was conducted over a period of five years.",
+      "keyword": "CARRY",
+      "sentence2Prefix": "The research",
+      "sentence2Suffix": "a period of five years.",
+      "answer": "was carried out over",
+      "explanation": "'Carry out research/an investigation' is a fixed collocation meaning to conduct it, here used in the passive ('was carried out')."
+    },
+    {
+      "number": 6,
+      "sentence1": "It's unlikely that the team will win the championship this year.",
+      "keyword": "CHANCE",
+      "sentence2Prefix": "The team stands",
+      "sentence2Suffix": "winning the championship this year.",
+      "answer": "little chance of",
+      "explanation": "'Stand little/a good/no chance of doing something' describes the likelihood of an outcome and is followed by the gerund."
+    }
+  ]
+}

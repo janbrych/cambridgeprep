@@ -1,0 +1,52 @@
+{
+  "id": "oc-c1-1",
+  "level": "C1",
+  "part": "open_cloze",
+  "title": "The Appeal of Slow Travel",
+  "instructions": "For questions 1-8, read the text below and think of the word which best fits each gap. Use only one word in each gap.",
+  "passage": "Slow travel, (1)___ unlike its fast-paced counterpart, places far greater emphasis on the journey (2)___ than the destination. (3)___, increasing numbers of travellers choose to spend weeks, rather (4)___ days, in a single region, getting to know its language, cuisine and customs (5)___ depth.\n\nProponents argue that this approach not only reduces the carbon footprint that comes (6)___ frequent short flights but also leads (7)___ a far richer, more meaningful experience overall. (8)___ said, slow travel is not without its critics, who point out that it is, in practice, a luxury available only to those with the time and money to spare.",
+  "questions": [
+    {
+      "number": 1,
+      "answer": "quite",
+      "acceptableAnswers": ["very", "rather"],
+      "explanation": "'Quite unlike' means 'very different from'. It softens/intensifies the contrast being drawn with fast-paced travel."
+    },
+    {
+      "number": 2,
+      "answer": "rather",
+      "explanation": "The fixed pattern 'A rather than B' contrasts the journey itself with the destination."
+    },
+    {
+      "number": 3,
+      "answer": "Consequently",
+      "acceptableAnswers": ["Accordingly", "Thus", "Hence"],
+      "explanation": "A linking adverb is needed to show that the following clause is a result of the idea in the previous sentence."
+    },
+    {
+      "number": 4,
+      "answer": "than",
+      "explanation": "'Rather than' is a fixed comparative structure: 'weeks, rather than days'."
+    },
+    {
+      "number": 5,
+      "answer": "in",
+      "explanation": "'In depth' is a fixed phrase meaning thoroughly."
+    },
+    {
+      "number": 6,
+      "answer": "with",
+      "explanation": "'Comes with' means 'is associated with' or 'results from'."
+    },
+    {
+      "number": 7,
+      "answer": "to",
+      "explanation": "'Lead to' is a fixed verb + preposition combination meaning 'result in'."
+    },
+    {
+      "number": 8,
+      "answer": "That",
+      "explanation": "'That said' is a fixed concessive phrase meaning 'however' or 'nevertheless'."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "mcc-c1-3",
+  "level": "C1",
+  "part": "multiple_choice_cloze",
+  "title": "Urban Foxes and the Rise of City Wildlife",
+  "instructions": "For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap.",
+  "passage": "Walk through almost any British city after dark and there is a fair chance you will (1)___ a fox trotting along a pavement, seemingly unbothered by the traffic and streetlights around it. Foxes have, over the past half-century, (2)___ from a largely rural animal into one far more at home scavenging bins than hunting hedgerows.\n\nEcologists (3)___ this adaptability largely to the fox's famously varied diet: an animal willing to eat earthworms, discarded takeaways and garden birds with equal (4)___ is never going to starve in a city full of unsecured bins.\n\nThis lack of fussiness has not endeared foxes to everyone. Gardeners accuse them of (5)___ up flowerbeds in search of grubs, while some parents worry, probably unnecessarily, about a fox (6)___ too close to young children.\n\nCouncils have largely (7)___ down calls for mass culls, pointing out that removing foxes from an area rarely works for long: new animals simply (8)___ the vacated territory within weeks.",
+  "questions": [
+    {
+      "number": 1,
+      "options": ["stare", "view", "spot", "watch"],
+      "answer": "C",
+      "explanation": "'Spot' means to notice or catch sight of something briefly, fitting a chance nighttime sighting. 'Stare' needs 'at' and implies a sustained look; 'view' suggests formal, deliberate observation; 'watch' implies following something over time, not a fleeting glimpse."
+    },
+    {
+      "number": 2,
+      "options": ["altered", "morphed", "varied", "shifted"],
+      "answer": "B",
+      "explanation": "'Morph from X into Y' is an established collocation for a gradual transformation. 'Altered' is normally transitive ('altered something'); 'varied from...to' means 'ranged between', not 'changed into'; 'shifted' typically pairs with 'to', not 'into'."
+    },
+    {
+      "number": 3,
+      "options": ["attribute", "accredit", "contribute", "distribute"],
+      "answer": "A",
+      "explanation": "'Attribute X to Y' means to say Y is the cause of X. 'Accredit' means to officially certify; 'contribute to' means to help cause something, which would reverse the sentence's logic; 'distribute' means to share something out."
+    },
+    {
+      "number": 4,
+      "options": ["arrogance", "diligence", "reluctance", "nonchalance"],
+      "answer": "D",
+      "explanation": "'With equal nonchalance' means showing the same casual indifference regardless of the food on offer. 'Arrogance' means excessive pride, 'diligence' means careful hard work, and 'reluctance' means unwillingness — the opposite of eating happily."
+    },
+    {
+      "number": 5,
+      "options": ["picking", "digging", "backing", "making"],
+      "answer": "B",
+      "explanation": "'Dig up' means to excavate soil in search of something, fitting grubs buried in a flowerbed. 'Pick up' means to lift; 'back up' means to support or reverse; 'make up' means to invent a story or reconcile after an argument."
+    },
+    {
+      "number": 6,
+      "options": ["lurking", "drifting", "straying", "roaming"],
+      "answer": "C",
+      "explanation": "'Stray too close to' means to move nearer than is safe, by accident. 'Lurk' means to hide and wait; 'drift' suggests slow, aimless movement; 'roam' implies covering a wide area rather than approaching one specific point."
+    },
+    {
+      "number": 7,
+      "options": ["turned", "put", "shut", "closed"],
+      "answer": "A",
+      "explanation": "'Turn down' means to reject a request or proposal. 'Put down' means to euthanise an animal or criticise someone; 'shut down' and 'close down' both mean to stop an operation running, not to refuse a request."
+    },
+    {
+      "number": 8,
+      "options": ["migrate", "transfer", "relocate", "recolonise"],
+      "answer": "D",
+      "explanation": "'Recolonise' is transitive, taking 'the vacated territory' directly as its object. 'Migrate' and 'relocate' are normally intransitive and would need 'to'; 'transfer' means to move something else from one place to another, not to settle into a place."
+    }
+  ]
+}

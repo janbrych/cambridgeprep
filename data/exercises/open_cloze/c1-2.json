@@ -1,0 +1,51 @@
+{
+  "id": "oc-c1-2",
+  "level": "C1",
+  "part": "open_cloze",
+  "title": "The Unexpected Comeback of Film Photography",
+  "instructions": "For questions 1-8, read the text below and think of the word which best fits each gap. Use only one word in each gap.",
+  "passage": "After decades (1)___ decline, film photography is, somewhat improbably, back in fashion. Sales of film stock, (2)___ once seemed destined for extinction, have risen for several years running, and prices for secondhand cameras have climbed (3)___ further, in some cases outstripping the cost of a new digital equivalent.\n\nMuch of the appeal lies (4)___ the unpredictability that digital photography was designed to eliminate: a roll of film cannot be checked, deleted or edited on the spot, (5)___ every shot forces the photographer to commit before they can see the result.\n\n(6)___ this matters to a generation raised entirely on digital screens is less obvious than it might seem. Several young photographers interviewed for this piece said (7)___ enjoyed the discipline of a limited number of exposures, which (8)___ them think harder about composition before pressing the shutter.",
+  "questions": [
+    {
+      "number": 1,
+      "answer": "of",
+      "explanation": "'After decades of decline' uses 'of' to link a quantity expression ('decades') to the noun it describes ('decline')."
+    },
+    {
+      "number": 2,
+      "answer": "which",
+      "explanation": "A relative pronoun is needed to introduce a non-defining clause giving extra information about 'film stock' as the subject of 'seemed'."
+    },
+    {
+      "number": 3,
+      "answer": "even",
+      "acceptableAnswers": ["still"],
+      "explanation": "'Even further' / 'still further' intensifies a comparison already established in the previous clause (sales rising, prices climbing)."
+    },
+    {
+      "number": 4,
+      "answer": "in",
+      "explanation": "'Lie in something' is a fixed verb + preposition pattern meaning 'to be found in' or 'consist of'."
+    },
+    {
+      "number": 5,
+      "answer": "so",
+      "explanation": "'So' links the described limitation (film can't be checked or edited) to its consequence (every shot forces commitment)."
+    },
+    {
+      "number": 6,
+      "answer": "Why",
+      "explanation": "A question word is needed to form the noun clause that acts as the subject of the sentence: 'Why this matters...is less obvious.'"
+    },
+    {
+      "number": 7,
+      "answer": "they",
+      "explanation": "A subject pronoun referring back to 'photographers' is needed before the verb 'enjoyed' in the reported clause."
+    },
+    {
+      "number": 8,
+      "answer": "makes",
+      "explanation": "The causative structure 'make someone do something' (bare infinitive, no 'to') fits 'which makes them think harder'."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "wf-c1-2",
+  "level": "C1",
+  "part": "word_formation",
+  "title": "The Science of Taste and Flavour Perception",
+  "instructions": "For questions 1-8, read the text below. Use the word given in capitals at the end of each line to form a word that fits in the gap in the same line.",
+  "passage": "What we commonly call taste is, according to food scientists, a largely (1)___ experience, built from signals the tongue can detect combined with smell, texture and even sound.\n\nThe tongue itself registers only a handful of basic qualities, yet our (2)___ of flavour feels far richer than this short list would suggest. Much of that richness comes from the nose: smell is so (3)___ to flavour that food tastes noticeably blander when a bad cold blocks the nasal passages.\n\nTexture plays a surprisingly large role too: identical flavourings taste different depending on whether a food is (4)___ or soft, a fact marketers exploit (5)___ when designing snacks. Even sound factors in: researchers have found that crisps eaten to the sound of a louder crunch are consistently rated as fresher and more (6)___, regardless of any actual difference in the product.\n\nColour, meanwhile, can create powerful and sometimes (7)___ expectations: diners given a familiar drink dyed an unexpected colour often report that it tastes wrong, even when the (8)___ itself has not changed at all.",
+  "questions": [
+    {
+      "number": 1,
+      "root": "DECEIVE",
+      "answer": "deceptive",
+      "explanation": "The adjective 'deceptive' (= giving a false impression) fits 'a largely ___ experience', describing taste as not quite what it appears to be."
+    },
+    {
+      "number": 2,
+      "root": "PERCEIVE",
+      "answer": "perception",
+      "explanation": "The noun 'perception' is needed as the subject of 'feels far richer', referring to how flavour is mentally processed."
+    },
+    {
+      "number": 3,
+      "root": "ESSENCE",
+      "answer": "essential",
+      "explanation": "The adjective 'essential' (= absolutely necessary) fits 'smell is so ___ to flavour', showing how central smell is to the overall experience."
+    },
+    {
+      "number": 4,
+      "root": "CRUNCH",
+      "answer": "crunchy",
+      "explanation": "The adjective 'crunchy' is needed to contrast with 'soft' in 'whether a food is ___ or soft'."
+    },
+    {
+      "number": 5,
+      "root": "DELIBERATE",
+      "answer": "deliberately",
+      "explanation": "The adverb 'deliberately' modifies the verb 'exploit', showing the action is intentional rather than accidental."
+    },
+    {
+      "number": 6,
+      "root": "APPEAL",
+      "answer": "appealing",
+      "explanation": "The adjective 'appealing' (= attractive) fits alongside 'fresher' as a second quality the crisps are rated on."
+    },
+    {
+      "number": 7,
+      "root": "PREDICT",
+      "answer": "unpredictable",
+      "explanation": "The negative prefix 'un-' plus the adjective suffix '-able' gives 'unpredictable', fitting expectations that can go either way depending on the diner."
+    },
+    {
+      "number": 8,
+      "root": "COMPOSE",
+      "answer": "composition",
+      "explanation": "The noun 'composition' (= the way something is made up) fits after 'the', referring to the drink's actual ingredients as opposed to its colour."
+    }
+  ]
+}

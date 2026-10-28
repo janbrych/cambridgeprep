@@ -1,0 +1,58 @@
+{
+  "id": "wf-c1-1",
+  "level": "C1",
+  "part": "word_formation",
+  "title": "The Psychology of Procrastination",
+  "instructions": "For questions 1-8, read the text below. Use the word given in capitals at the end of each line to form a word that fits in the gap in the same line.",
+  "passage": "Procrastination is often (1)___ as a simple failure of willpower, but psychologists increasingly argue that it is far more (2)___ than that.\n\nFar from being driven purely by laziness, chronic procrastinators are frequently highly (3)___ individuals who delay tasks precisely because they care so much about doing them well. The fear of producing (4)___ work, rather than indifference, can be what triggers the (5)___ to begin.\n\nThis (6)___ to start is rarely a conscious choice; it is better understood as an automatic, almost (7)___ response to the discomfort that a difficult task provokes. Treating it as a moral failing, researchers warn, tends to increase shame without improving (8)___, and may even make the underlying avoidance worse.",
+  "questions": [
+    {
+      "number": 1,
+      "root": "UNDERSTAND",
+      "answer": "misunderstood",
+      "explanation": "The prefix 'mis-' gives 'misunderstood' (= wrongly interpreted), which fits the idea that procrastination is wrongly seen as just a lack of willpower."
+    },
+    {
+      "number": 2,
+      "root": "COMPLICATE",
+      "answer": "complicated",
+      "explanation": "The adjective form 'complicated' fits after 'far more ___ than that'."
+    },
+    {
+      "number": 3,
+      "root": "CONSCIENCE",
+      "answer": "conscientious",
+      "explanation": "'Conscientious' (= careful and diligent) fits people who delay tasks because they care deeply about doing them well."
+    },
+    {
+      "number": 4,
+      "root": "PERFECT",
+      "answer": "imperfect",
+      "explanation": "The negative prefix 'im-' gives 'imperfect', fitting the fear of producing work that isn't good enough."
+    },
+    {
+      "number": 5,
+      "root": "RELUCTANT",
+      "answer": "reluctance",
+      "explanation": "The noun form 'reluctance' is needed after 'the' and before 'to begin'."
+    },
+    {
+      "number": 6,
+      "root": "HESITATE",
+      "answer": "hesitation",
+      "explanation": "The noun 'hesitation' fits as the subject of the sentence ('This hesitation to start...')."
+    },
+    {
+      "number": 7,
+      "root": "REFLEX",
+      "answer": "reflexive",
+      "explanation": "The adjective 'reflexive' (= automatic, done without thinking) fits 'an almost ___ response'."
+    },
+    {
+      "number": 8,
+      "root": "PRODUCE",
+      "answer": "productivity",
+      "explanation": "The abstract noun 'productivity' fits after 'improving'."
+    }
+  ]
+}

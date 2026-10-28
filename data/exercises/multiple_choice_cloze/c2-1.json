@@ -1,0 +1,58 @@
+{
+  "id": "mcc-c2-1",
+  "level": "C2",
+  "part": "multiple_choice_cloze",
+  "title": "The Allure of Abandoned Places",
+  "instructions": "For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap.",
+  "passage": "There is a peculiar thrill in trespass, and nowhere is this more (1)___ than among the growing community of urban explorers who seek out derelict factories, disused asylums and crumbling grand hotels. Clutching torches and cameras rather than crowbars, these self-styled custodians of decay insist that their motives are more reverent than reckless.\n\nCritics, understandably wary of trespass law and the risk of injury, (2)___ the romance of ruin as little more than aestheticised rubbernecking - a voyeuristic thrill dressed up in the language of heritage. Yet the impulse itself is far from new: eighteenth-century aristocrats went to considerable (3)___ to have artificial ruins built on their estates, purely so they might (4)___ on the passage of time from a tastefully overgrown folly.\n\nWhat has changed is the audience. Photographs that once circulated among a handful of connoisseurs now (5)___ across social media within minutes, turning once-obscure buildings into pilgrimage sites and, inevitably, (6)___ the very decay that made them alluring in the first place, as footfall, graffiti and souvenir-hunting take their toll.\n\nSome explorers have therefore grown quietly (7)___ about sharing locations at all, preferring to let a building's mystique outlive its anonymity rather than (8)___ it to an audience that may trample straight through the very atmosphere it came to admire.",
+  "questions": [
+    {
+      "number": 1,
+      "options": ["pronounced", "announced", "declared", "professed"],
+      "answer": "A",
+      "explanation": "'More pronounced' means more noticeable or evident. The other options all involve formally stating something aloud, which doesn't fit 'nowhere is this more ___'."
+    },
+    {
+      "number": 2,
+      "options": ["dismiss", "resign", "discard", "relinquish"],
+      "answer": "A",
+      "explanation": "'Dismiss X as Y' is the fixed pattern for characterising something negatively. 'Resign' pairs with 'to' or 'from', 'discard' and 'relinquish' mean to get rid of/give up and don't take an 'as' complement here."
+    },
+    {
+      "number": 3,
+      "options": ["lengths", "distance", "extent", "measure"],
+      "answer": "A",
+      "explanation": "'Go to considerable lengths' is a fixed idiom meaning to make a great effort. 'Distance', 'extent' and 'measure' don't fit this verb pattern ('went to considerable ___ to have...built')."
+    },
+    {
+      "number": 4,
+      "options": ["muse", "amuse", "bemuse", "accuse"],
+      "answer": "A",
+      "explanation": "'Muse on' is a fixed phrasal verb meaning to reflect thoughtfully on something. 'Amuse', 'bemuse' and 'accuse' are unrelated in meaning and don't combine with 'on' in this sense."
+    },
+    {
+      "number": 5,
+      "options": ["ricochet", "ripple", "radiate", "resonate"],
+      "answer": "A",
+      "explanation": "'Ricochet across' vividly captures images bouncing rapidly and uncontrollably between users. 'Ripple' suggests a gentler, gradual spread; 'radiate' normally pairs with 'from' a source; 'resonate' describes emotional impact, not speed of spread."
+    },
+    {
+      "number": 6,
+      "options": ["hastening", "lessening", "delaying", "halting"],
+      "answer": "A",
+      "explanation": "The sentence describes an ironic, unwanted side effect of attention: it speeds up the very decay admirers came to see. 'Lessening', 'delaying' and 'halting' all contradict the word 'inevitably'."
+    },
+    {
+      "number": 7,
+      "options": ["reticent", "retentive", "resident", "resonant"],
+      "answer": "A",
+      "explanation": "'Reticent about' means unwilling to disclose information. The other three words share a similar sound/ending but mean, respectively, 'good at remembering', 'living somewhere' and 'echoing/full of meaning'."
+    },
+    {
+      "number": 8,
+      "options": ["surrender", "relegate", "subject", "commit"],
+      "answer": "A",
+      "explanation": "'Surrender it to an audience' fits the idea of giving up a location's secrecy. 'Relegate' means to demote to a lower rank/category, 'subject...to' usually pairs with an ordeal or scrutiny rather than 'an audience', and 'commit' pairs with 'to memory/paper'."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "mm-c1-3",
+  "level": "C1",
+  "part": "multiple_matching",
+  "title": "Overcoming a Personal Fear",
+  "instructions": "You are going to read an article in which four people talk about overcoming a personal fear. For questions 1-10, choose from the people (A-D). Each person may be chosen more than once.",
+  "sections": [
+    {
+      "letter": "A",
+      "heading": "Amara",
+      "text": "I developed a fear of flying after a frightening bout of turbulence on a long-haul flight several years ago; before that, flying had honestly never bothered me at all. The fear became impossible to ignore when I changed jobs and discovered my new role would involve flying to a different country almost every month. I signed up for a course specifically designed for nervous flyers, which spent as much time explaining the engineering behind how planes actually stay in the air as it did on relaxation techniques, and understanding the mechanics properly did far more for my confidence than I expected. I still feel a flicker of nerves during takeoff on every single flight, but a simple breathing routine I learned on the course is usually enough to get me through it now."
+    },
+    {
+      "letter": "B",
+      "heading": "Lucas",
+      "text": "My fear of public speaking started with a presentation at school that went badly and left the whole class laughing, an experience I spent years afterwards trying to avoid repeating. In my late twenties I finally joined a local public speaking club, where a more experienced member took a particular interest in my progress and gave me feedback after every single session for almost a year. One early piece of advice from her that I still pass on to others is never to memorise a speech word for word, since losing your place in a memorised script is far more panic-inducing than glancing at a few prompt notes. I was genuinely proud of myself the day I gave the toast at my closest friend's wedding without a single note card in my hand."
+    },
+    {
+      "letter": "C",
+      "heading": "Priya",
+      "text": "I've been nervous around dogs since I was bitten by a neighbour's dog at the age of six, an incident I can still picture in surprising detail. What eventually helped was, somewhat ironically, a different neighbour's elderly, famously placid dog, whom I started spending time with for a few minutes most days, always at my own pace and never pushed. No particular breathing exercise or technique made much difference; it was simply the slow accumulation of calm, uneventful time spent near a dog that gradually did the work. A close friend who already had dogs herself was remarkably patient throughout, never once making me feel foolish for flinching at every sudden movement. These days I'm genuinely relaxed around dogs I know well, though I'll admit a large, unfamiliar dog approaching me on the street can still make my heart race."
+    },
+    {
+      "letter": "D",
+      "heading": "Marcus",
+      "text": "I've been uneasy around heights for as long as I can remember, with no single incident I can point to as the cause. The problem became unavoidable once I started working as a photographer and began receiving regular requests for rooftop shoots that required me to actually be up there myself. I worked with a climbing instructor who insisted on building up gradually, floor by floor over several weeks, after I'd initially wanted to just get it over with by tackling the tallest building on the list straight away; she talked me out of that fairly quickly, pointing out that it would likely set me back rather than help. I remember feeling enormously proud after completing my first full rooftop shoot unassisted. Continuing to turn down this kind of work was never really an option if I wanted to keep working as a photographer at all, so in the end I didn't have much choice but to confront it properly."
+    }
+  ],
+  "questions": [
+    { "number": 1, "question": "changed jobs, which made it necessary to confront their fear?" },
+    { "number": 2, "question": "can remember the incident that caused their fear in considerable detail?" },
+    { "number": 3, "question": "found that understanding how something works reduced their fear more than relaxation techniques did?" },
+    { "number": 4, "question": "received regular, ongoing feedback from a more experienced person over an extended period?" },
+    { "number": 5, "question": "passes on a specific piece of advice warning against a particular approach?" },
+    { "number": 6, "question": "found that no specific technique helped as much as simply repeated, calm exposure?" },
+    { "number": 7, "question": "says someone close to them remained patient despite an understandably difficult reaction during the process?" },
+    { "number": 8, "question": "initially wanted to confront the most frightening version of the situation immediately, but was persuaded otherwise?" },
+    { "number": 9, "question": "felt proud of speaking in public without relying on any notes?" },
+    { "number": 10, "question": "says that continuing to avoid the feared situation would have threatened their career?" }
+  ],
+  "answers": [
+    { "questionNumber": 1, "letter": "A", "explanation": "Amara says the fear 'became impossible to ignore' when a new job required flying almost every month." },
+    { "questionNumber": 2, "letter": "C", "explanation": "Priya says the incident is 'an incident I can still picture in surprising detail'." },
+    { "questionNumber": 3, "letter": "A", "explanation": "Amara says 'understanding the mechanics properly did far more for my confidence' than the relaxation techniques also taught on the course." },
+    { "questionNumber": 4, "letter": "B", "explanation": "Lucas describes a club member who 'gave me feedback after every single session for almost a year'." },
+    { "questionNumber": 5, "letter": "B", "explanation": "Lucas 'still pass[es] on' the advice never to memorise a speech word for word." },
+    { "questionNumber": 6, "letter": "C", "explanation": "Priya says 'no particular breathing exercise or technique made much difference', only repeated calm exposure." },
+    { "questionNumber": 7, "letter": "C", "explanation": "Priya's friend 'was remarkably patient throughout, never once making me feel foolish for flinching'." },
+    { "questionNumber": 8, "letter": "D", "explanation": "Marcus 'initially wanted to just get it over with by tackling the tallest building', but his instructor 'talked me out of that'." },
+    { "questionNumber": 9, "letter": "B", "explanation": "Lucas was proud to give a wedding toast 'without a single note card in my hand'." },
+    { "questionNumber": 10, "letter": "D", "explanation": "Marcus says turning down height-related work 'was never really an option if I wanted to keep working as a photographer at all'." }
+  ]
+}
