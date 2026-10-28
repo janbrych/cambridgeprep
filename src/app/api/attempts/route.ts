@@ -1,4 +1,5 @@
 import { listAttempts, saveAttempt } from "@/lib/store";
+import { syncProgressToGitHub } from "@/lib/git-sync";
 import type { Attempt } from "@/lib/types";
 
 export async function GET() {
@@ -20,5 +21,8 @@ export async function POST(request: Request) {
   }
 
   const attempt = await saveAttempt(body);
+  await syncProgressToGitHub(
+    `Attempt: ${attempt.exerciseId} (${attempt.score}/${attempt.maxScore})`
+  );
   return Response.json(attempt, { status: 201 });
 }

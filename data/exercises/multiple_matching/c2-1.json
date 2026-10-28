@@ -1,0 +1,53 @@
+{
+  "id": "mm-c2-1",
+  "level": "C2",
+  "part": "multiple_matching",
+  "title": "The Ethics and Craft of Literary Translation",
+  "instructions": "You are going to read an article in which four literary translators discuss the challenges and ethics of their craft. For questions 1-10, choose from the translators (A-D). Each translator may be chosen more than once.",
+  "sections": [
+    {
+      "letter": "A",
+      "heading": "Ingrid",
+      "text": "I translate Scandinavian poetry, and the compound words are what consistently defeat me - a single term that would need an entire awkward clause in English, forcing a choice between clumsy literalness and a cleaner line that quietly sacrifices some nuance. I lean strongly against footnotes, which I've come to regard as something close to an admission that the text itself has failed to solve its own problem. My proudest moments come when a reader finishes a poem with no sense whatsoever that they were reading a translation at all; anything that draws attention to my presence as an intermediary feels, to me, like a small failure. I once chose a rendering the original poet actively disagreed with at the time, convinced I'd flattened something essential - it was only years later, rereading it herself, that she told me she'd come to prefer my version to her own literal back-translation."
+    },
+    {
+      "letter": "B",
+      "heading": "Khalid",
+      "text": "Contemporary Arabic fiction is full of culturally specific humour that simply refuses to travel into English, and literal translation of a joke is, in my experience, close to a guaranteed way of killing it outright. My solution is usually to abandon the original joke entirely and invent a new one that works on its own terms in English, aiming for an equivalent effect rather than an equivalent sentence. I feel strongly that translators function as something close to co-authors and ought to be credited far more prominently - on the cover itself, not tucked away on a copyright page - and I've pushed back more than once when a publisher tried to minimise that credit. One pun in a recent novel seemed genuinely untranslatable until, almost by accident, I landed on a wordplay joke of my own invention that an early reader insisted was funnier than the Arabic original."
+    },
+    {
+      "letter": "C",
+      "heading": "Noriko",
+      "text": "Working on classical Japanese literature means the authors have been dead for centuries, so unlike colleagues translating living writers, I can never simply ask what was intended; scholarly commentary accumulated over generations has to serve instead. The hardest problem by far is rendering levels of formality and politeness that correspond to nothing in English's own class or courtesy system. I've made peace with the fact that any translation of mine will eventually feel dated and will, quite rightly, be replaced by someone else's version decades from now - each generation, I think, is entitled to its own retranslation of the classics rather than being stuck with mine indefinitely. The achievement I'm proudest of remains a single untranslatable pun in a tenth-century diary, for which I eventually found an elegant solution built entirely from English wordplay rather than any direct equivalent."
+    },
+    {
+      "letter": "D",
+      "heading": "Felix",
+      "text": "I translate German philosophy, where the central difficulty is usually a term the original author coined specifically for their argument, carrying a precise technical meaning that no existing English word quite covers. I've come to believe that consistency of terminology across an entire book matters more than any individual sentence sounding effortlessly natural, even when that consistency occasionally produces a slightly awkward phrase. Rather than trusting my own instinct on a difficult technical term, I routinely consult academic specialists in the relevant philosopher's work to check my choices before committing to them in print. A reviewer once criticised one of my terminology decisions quite publicly, and although it stung at the time, I've since come to think the criticism was fair and genuinely useful to my later work."
+    }
+  ],
+  "questions": [
+    { "number": 1, "question": "believes any translation will eventually need to be replaced by a new one?" },
+    { "number": 2, "question": "believes translators deserve more prominent public credit for their work?" },
+    { "number": 3, "question": "prefers inventing an entirely new joke rather than translating one literally when humour does not transfer?" },
+    { "number": 4, "question": "cannot consult the original author and relies on scholarly research instead?" },
+    { "number": 5, "question": "values consistent terminology across a whole book over every individual sentence sounding natural?" },
+    { "number": 6, "question": "found public criticism of a specific decision ultimately useful despite initial discomfort?" },
+    { "number": 7, "question": "aims above all for readers not to notice that they are reading a translation?" },
+    { "number": 8, "question": "says the original author did not initially agree with a particular translation decision?" },
+    { "number": 9, "question": "regularly consults specialists to verify difficult terminology choices?" },
+    { "number": 10, "question": "feels proudest of solving a specific wordplay problem through an original English solution?" }
+  ],
+  "answers": [
+    { "questionNumber": 1, "letter": "C", "explanation": "Noriko says her translations 'will eventually feel dated' and be 'replaced by someone else's version decades from now'." },
+    { "questionNumber": 2, "letter": "B", "explanation": "Khalid feels translators 'ought to be credited far more prominently - on the cover itself'." },
+    { "questionNumber": 3, "letter": "B", "explanation": "Khalid's 'solution is usually to abandon the original joke entirely and invent a new one' when humour doesn't transfer." },
+    { "questionNumber": 4, "letter": "C", "explanation": "Noriko says because the authors are dead, 'scholarly commentary accumulated over generations has to serve instead' of asking them directly." },
+    { "questionNumber": 5, "letter": "D", "explanation": "Felix believes 'consistency of terminology across an entire book matters more than any individual sentence sounding effortlessly natural'." },
+    { "questionNumber": 6, "letter": "D", "explanation": "Felix says a public criticism 'stung at the time' but he has 'since come to think the criticism was fair and genuinely useful'." },
+    { "questionNumber": 7, "letter": "A", "explanation": "Ingrid says her 'proudest moments come when a reader finishes a poem with no sense whatsoever that they were reading a translation at all'." },
+    { "questionNumber": 8, "letter": "A", "explanation": "Ingrid describes a rendering 'the original poet actively disagreed with at the time', though she later came round to it." },
+    { "questionNumber": 9, "letter": "D", "explanation": "Felix 'routinely consult[s] academic specialists...to check my choices before committing to them in print'." },
+    { "questionNumber": 10, "letter": "C", "explanation": "Noriko is proudest of a pun for which she 'found an elegant solution built entirely from English wordplay'." }
+  ]
+}

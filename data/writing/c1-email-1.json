@@ -1,0 +1,9 @@
+{
+  "id": "wr-c1-email-1",
+  "level": "C1",
+  "taskType": "email",
+  "title": "Email: Advice on a Scholarship Offer",
+  "prompt": "You recently received the following email from a friend:\n\n'I've just been offered a scholarship to study for a year at a university abroad, starting in a few months. It's a fantastic opportunity, but it would mean leaving my job, my flat and everyone I know here, and I'm honestly not sure if I should accept it. What would you do? I could really use some advice.'\n\nWrite your reply, giving your friend advice and explaining your reasons.\n\nWrite your email in 220-260 words.",
+  "wordCountRange": [220, 260],
+  "notes": "Look for: an appropriately warm, informal register throughout (contractions, personal tone, natural openers/closers) that still engages seriously with the dilemma rather than just offering platitudes; genuine advice with clearly stated reasons, not just 'do what makes you happy'; acknowledgement of both sides of the friend's hesitation (what would be gained, what would be given up) before reaching a recommendation; natural informal linking devices rather than essay-style connectors; a closing that sounds like a real friend signing off, not a formal letter."
+}

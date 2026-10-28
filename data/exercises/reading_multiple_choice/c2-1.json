@@ -1,0 +1,82 @@
+{
+  "id": "rmc-c2-1",
+  "level": "C2",
+  "part": "reading_multiple_choice",
+  "title": "Rethinking Boredom",
+  "instructions": "For questions 1-6, read the text below and answer the questions by choosing A, B, C or D.",
+  "passage": "Boredom has an image problem. Dismissed for centuries as a trivial, even faintly shameful lapse in character - the mark of an insufficiently curious mind - it has only recently attracted the sustained attention of philosophers and psychologists willing to take the sensation seriously on its own terms, rather than treating it merely as something to be eliminated as efficiently as possible.\n\nPart of the difficulty lies in definition. Boredom is not simply the absence of activity, since a long train journey spent gazing contentedly out of a window need not be boring at all, while a demanding task performed under duress frequently is. What seems to unite genuine instances of boredom, researchers increasingly agree, is not idleness but a mismatch: the sense that one's attention is being asked to engage with something, yet finds nothing in it worth engaging with.\n\nThis reframing has practical consequences. If boredom is a signal of mismatch rather than mere emptiness, it follows that chronic boredom might indicate something is wrong not with the bored individual's attention span but with their circumstances - a job stripped of autonomy, a curriculum divorced from any question the student might actually care about. Several studies linking habitual boredom with poor academic and occupational outcomes have accordingly been reinterpreted: rather than boredom causing disengagement, the underlying mismatch may be producing both.\n\nNone of this is to say boredom is without value. A smaller, more provocative strand of research suggests that boredom, tolerated rather than immediately escaped, can function as a kind of cognitive pressure valve, nudging the mind toward exactly the undirected, associative thinking from which genuinely novel ideas tend to emerge. Several widely cited studies have found that participants given a deliberately tedious task before a creative exercise outperform those given no interlude at all, a result its authors attribute to boredom's tendency to loosen the mind's grip on habitual, well-worn associations.\n\nThe trouble, as any parent or schoolteacher will attest, is that smartphones have made boredom an almost entirely avoidable state, filled instantly and reflexively at the first flicker of discomfort. Whether a generation raised with permanent access to that escape hatch will ever experience boredom for long enough to reap whatever benefit it offers is, for now, an open and slightly unsettling question - one that several of the researchers interviewed for this piece raised unprompted, without being asked.",
+  "questions": [
+    {
+      "number": 1,
+      "question": "What point does the writer make about boredom in the first paragraph?",
+      "options": [
+        "It was traditionally regarded as something to eliminate rather than examine.",
+        "It has always been studied seriously by philosophers.",
+        "It is no longer considered a legitimate psychological state.",
+        "It is primarily caused by a lack of intelligence."
+      ],
+      "answer": "A",
+      "explanation": "The paragraph says boredom was historically treated 'as something to be eliminated as efficiently as possible' rather than studied; serious attention is described as recent (contradicting B), the text never says it's illegitimate (contradicting C), and 'insufficiently curious' is about character, not intelligence (D overstates this)."
+    },
+    {
+      "number": 2,
+      "question": "According to the second paragraph, what do researchers increasingly believe defines genuine boredom?",
+      "options": [
+        "A complete absence of any activity.",
+        "Performing a demanding task under pressure.",
+        "A mismatch between attention and what it's directed toward.",
+        "Spending time on a long journey."
+      ],
+      "answer": "C",
+      "explanation": "The text defines boredom as 'not idleness but a mismatch' between attention and engagement. Absence of activity is explicitly ruled out, and the train journey and demanding task are only illustrative examples of when boredom does or doesn't occur, not the definition itself."
+    },
+    {
+      "number": 3,
+      "question": "What does the third paragraph suggest about the relationship between boredom and poor outcomes?",
+      "options": [
+        "Boredom has been proven to have no connection to academic performance.",
+        "Poor circumstances are irrelevant to how much boredom a person feels.",
+        "Chronic boredom is always caused by a lack of discipline.",
+        "The causal direction originally assumed may need to be reconsidered."
+      ],
+      "answer": "D",
+      "explanation": "The text says 'rather than boredom causing disengagement, the underlying mismatch may be producing both' — a reconsideration of causality, not a denial of any connection, and circumstances are presented as central, not irrelevant, with no mention of discipline."
+    },
+    {
+      "number": 4,
+      "question": "What does the research described in the fourth paragraph suggest about tolerating boredom?",
+      "options": [
+        "It has no measurable effect on creative thinking.",
+        "It can help loosen habitual patterns of thought and support creativity.",
+        "It should always be avoided before a demanding creative task.",
+        "It only benefits people who are naturally imaginative."
+      ],
+      "answer": "B",
+      "explanation": "The studies found a tedious task before a creative exercise improved performance, attributed to boredom 'loosening the mind's grip on habitual, well-worn associations' — the opposite of having no effect or needing to be avoided, and the finding isn't restricted to naturally imaginative people."
+    },
+    {
+      "number": 5,
+      "question": "What concern does the final paragraph raise about smartphones?",
+      "options": [
+        "They have made people less intelligent overall.",
+        "They are the primary cause of chronic boredom in young people.",
+        "They may prevent people from experiencing boredom long enough to benefit from it.",
+        "They have eliminated boredom as a psychological phenomenon entirely."
+      ],
+      "answer": "C",
+      "explanation": "The concern is whether a generation with 'permanent access to that escape hatch will ever experience boredom for long enough to reap whatever benefit it offers' — smartphones are described as avoiding boredom, not causing it, and the text frames this as an open question, not a completed elimination."
+    },
+    {
+      "number": 6,
+      "question": "Which best summarises the overall argument of the text?",
+      "options": [
+        "Boredom is a harmful state that modern technology has thankfully eliminated.",
+        "Boredom should be actively encouraged in all educational settings regardless of context.",
+        "Boredom has been scientifically proven to always improve creativity.",
+        "Boredom is a complex signal that may serve a genuine psychological purpose, which constant distraction now threatens to foreclose."
+      ],
+      "answer": "D",
+      "explanation": "The text reframes boredom as a meaningful mismatch signal with a possible creative function, then raises concern that smartphones may be foreclosing that function — it does not treat technology as a solution (A), make a blanket educational recommendation (B), or claim universal proof of a creativity benefit (C, which overstates 'can function as' into 'always improve')."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "wf-c2-1",
+  "level": "C2",
+  "part": "word_formation",
+  "title": "The Neuroscience of Deja Vu",
+  "instructions": "For questions 1-8, read the text below. Use the word given in capitals at the end of each line to form a word that fits in the gap in the same line.",
+  "passage": "The sensation of deja vu - the uncanny conviction that an entirely new experience has somehow already happened - was once dismissed as little more than a (1)___ oddity, too brief and too subjective to merit serious scientific attention. Brain-imaging studies have since lent the phenomenon a degree of (2)___ it never previously enjoyed, tentatively linking it to brief, harmless misfirings in the brain's memory-checking circuitry.\n\nOne leading theory holds that deja vu occurs when the brain's (3)___ system for flagging new information as unfamiliar briefly malfunctions, mistakenly tagging a genuinely novel scene as something previously encountered. This would explain why the feeling is typically accompanied by a strong sense of (4)___, even though the rational mind recognises, almost simultaneously, that the belief cannot possibly be accurate.\n\nInterestingly, the frequency of deja vu appears to decline sharply with age, which researchers find (5)___, since most theories would predict the opposite: a brain with decades of accumulated memories, one might assume, should misfire this way more often, not less. A small minority of people experience the sensation with troubling (6)___, sometimes several times a day, a pattern that has occasionally been linked to certain forms of epilepsy rather than ordinary, harmless misfiring.\n\nFor the rest of us, however, an occasional, (7)___ moment of deja vu appears to be an entirely normal - if faintly eerie - feature of a healthy, functioning memory system. Rather than a sign of anything (8)___, in other words, that strange little shiver of false recognition may simply be the ordinary cost of running a memory system complex enough to make mistakes in the first place.",
+  "questions": [
+    {
+      "number": 1,
+      "root": "PSYCHOLOGY",
+      "answer": "psychological",
+      "explanation": "The adjective 'psychological' fits before 'oddity', describing the kind of curiosity deja vu was once considered to be."
+    },
+    {
+      "number": 2,
+      "root": "RESPECT",
+      "answer": "respectability",
+      "explanation": "The abstract noun 'respectability' fits after 'a degree of', referring to the phenomenon being taken seriously as a subject of study."
+    },
+    {
+      "number": 3,
+      "root": "VERIFY",
+      "answer": "verification",
+      "explanation": "The noun 'verification' fits before 'system', describing the brain's mechanism for checking whether information is new or familiar."
+    },
+    {
+      "number": 4,
+      "root": "FAMILIAR",
+      "answer": "familiarity",
+      "explanation": "The noun 'familiarity' fits after 'a strong sense of', naming the feeling that accompanies deja vu."
+    },
+    {
+      "number": 5,
+      "root": "INTUITIVE",
+      "answer": "counterintuitive",
+      "explanation": "Adding the prefix 'counter-' gives 'counterintuitive' (= contrary to what one would expect), fitting a finding that contradicts most theories' predictions."
+    },
+    {
+      "number": 6,
+      "root": "FREQUENT",
+      "answer": "frequency",
+      "explanation": "The noun 'frequency' fits after 'troubling', describing how often the minority group experiences the sensation."
+    },
+    {
+      "number": 7,
+      "root": "FLEET",
+      "answer": "fleeting",
+      "explanation": "The adjective 'fleeting' (= lasting only a moment) fits before 'moment', describing the brief nature of an occasional deja vu experience."
+    },
+    {
+      "number": 8,
+      "root": "WORRY",
+      "answer": "worrying",
+      "explanation": "The adjective 'worrying' fits after 'anything', describing the kind of sign that deja vu is argued not to be."
+    }
+  ]
+}

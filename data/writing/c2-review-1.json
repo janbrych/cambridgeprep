@@ -1,0 +1,9 @@
+{
+  "id": "wr-c2-review-1",
+  "level": "C2",
+  "taskType": "review",
+  "title": "Review: A Stage Adaptation of a Classic Novel",
+  "prompt": "You see the following notice on an international arts and culture website:\n\n'We are looking for reviews of a theatrical adaptation of a classic novel. Tell us how successfully the adaptation captured the spirit of the original book, what artistic choices stood out to you, and whether you would recommend it to readers of the novel as well as to those unfamiliar with it.'\n\nWrite your review in 280-320 words.",
+  "wordCountRange": [280, 320],
+  "notes": "C2 bar: an engaging, confident opening that avoids simply restating the task; a genuinely evaluative discussion of specific artistic choices (staging, adaptation decisions, performances) rather than a plot summary of the novel; precise, varied evaluative vocabulary suited to theatre criticism, used naturally rather than for display; a nuanced judgement that can hold two things at once (e.g. a bold adaptation choice that mostly succeeds but has a genuine weakness), rather than uniform praise or criticism; a considered final recommendation that distinguishes between the two audiences named in the prompt (those who know the novel and those who don't)."
+}

@@ -1,0 +1,70 @@
+{
+  "id": "gt-c2-1",
+  "level": "C2",
+  "part": "gapped_text",
+  "title": "The History of Literary Forgery",
+  "instructions": "Six paragraphs have been removed from the text below. Choose from the paragraphs A-G the one which fits each gap (1-6). There is one extra paragraph which you do not need to use.",
+  "passage": "Literary forgery occupies a curious moral position: unlike most forms of fraud, it is sometimes practised not for direct financial gain but for something closer to validation, the forger seeking to prove that their own unpublished talent could pass, undetected, as the work of a celebrated name.\n\n[1]\n\nThe eighteenth century produced one of the field's most instructive cases: a teenage poet from Bristol who, unable to find a publisher willing to take his own verse seriously, began attributing it to a fictitious medieval monk, complete with invented antique spelling and a plausible biography.\n\n[2]\n\nFor a time, the deception worked rather better than its creator could have anticipated, fooling several respected scholars who pronounced the verses a genuine and valuable discovery from a largely undocumented period of English literary history.\n\n[3]\n\nUnmasking a forgery of this kind, historians note, is rarely achieved through a single decisive piece of evidence; more often it is the slow accumulation of minor inconsistencies - a word that did not yet exist in the period claimed, a reference to an event the supposed author could not have known about - that eventually tips scholarly opinion.\n\n[4]\n\nWhat makes the episode more poignant than merely embarrassing is the fate of its author, who died in genuine poverty shortly after the deception was exposed, having never received anything resembling fair recognition for the undeniable talent the forged verses had, in their own way, demonstrated all along.\n\n[5]\n\nLater forgers, armed with the lesson of this earlier exposure, grew considerably more sophisticated about the physical evidence a forgery needed to withstand: aged paper, period-appropriate ink, even deliberately introduced errors of the kind a genuine historical document might plausibly contain.\n\n[6]\n\nModern forensic techniques, chemical dating chief among them, have made this particular cat-and-mouse game considerably harder for today's forgers to win, though the underlying motive - the desire to be taken seriously by a literary establishment unwilling to grant that recognition honestly - appears to have changed remarkably little across the centuries.",
+  "paragraphs": [
+    {
+      "letter": "A",
+      "text": "His fabricated monk, Thomas Rowley, was said to have composed the poems some three centuries earlier, a conveniently distant period from which few authenticating documents of any kind had survived to contradict the claim."
+    },
+    {
+      "letter": "B",
+      "text": "Among those taken in was a prominent antiquarian who staked considerable personal reputation on defending the poems' authenticity even after doubts began to surface elsewhere."
+    },
+    {
+      "letter": "C",
+      "text": "Chief among the inconsistencies eventually identified was the presence of several words that, etymologists demonstrated, had not entered the English language until long after the poems' supposed composition."
+    },
+    {
+      "letter": "D",
+      "text": "He was barely eighteen when he died, having spent his final months in genuine destitution despite the brief fame the poems had generated under an invented name."
+    },
+    {
+      "letter": "E",
+      "text": "Some later forgers went so far as to bury manufactured documents in damp soil for months at a time, reasoning that genuine age could at least be partially simulated through genuine decay."
+    },
+    {
+      "letter": "F",
+      "text": "Isotopic analysis of paper and ink can now, in many cases, date a document to within a few years of its true creation, a precision that would have been unimaginable to forgers working even a few decades ago."
+    },
+    {
+      "letter": "G",
+      "text": "Literary hoaxes should not be confused with plagiarism, which involves claiming someone else's genuine work as one's own rather than inventing an entirely fictitious author."
+    }
+  ],
+  "answers": [
+    {
+      "gapNumber": 1,
+      "letter": "A",
+      "explanation": "A elaborates on the fictitious monk just introduced, naming him and explaining why the chosen period made the deception harder to disprove, before the next paragraph describes how well the deception worked."
+    },
+    {
+      "gapNumber": 2,
+      "letter": "B",
+      "explanation": "B specifies one of the 'several respected scholars' just mentioned, describing how deeply invested that figure became, before the text turns to how the forgery was eventually exposed."
+    },
+    {
+      "gapNumber": 3,
+      "letter": "C",
+      "explanation": "C gives a concrete example of exactly the kind of 'minor inconsistency' just described (a word that didn't yet exist), before the text shifts to the author's fate."
+    },
+    {
+      "gapNumber": 4,
+      "letter": "D",
+      "explanation": "D expands on 'the fate of its author' just mentioned, adding his age and the destitution of his final months, before the text moves on to later forgers' response."
+    },
+    {
+      "gapNumber": 5,
+      "letter": "E",
+      "explanation": "E gives a specific, vivid example of the increased sophistication 'about physical evidence' just described, before the text introduces the modern forensic countermeasures that followed."
+    },
+    {
+      "gapNumber": 6,
+      "letter": "F",
+      "explanation": "F elaborates on the 'modern forensic techniques, chemical dating chief among them' just named, giving a specific example of their precision before the concluding comment about unchanged motives."
+    }
+  ]
+}

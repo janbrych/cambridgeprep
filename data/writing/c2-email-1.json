@@ -1,0 +1,9 @@
+{
+  "id": "wr-c2-email-1",
+  "level": "C2",
+  "taskType": "email",
+  "title": "Email: Seeking Corporate Sponsorship for a Charity",
+  "prompt": "You are the chair of a small environmental charity that restores local wetland habitats. Your committee has identified a mid-sized company as a potential corporate sponsor, but the company has not previously supported environmental causes and may need persuading that the partnership is worthwhile.\n\nWrite an email to the company's management, introducing your organisation's work and persuading them to provide funding or in-kind support.\n\nWrite your email in 280-320 words.",
+  "wordCountRange": [280, 320],
+  "notes": "C2 bar: a formal, persuasive register sustained throughout, calibrated for a reader who is not yet convinced (unlike a routine request to an already-sympathetic audience); a clear structure that introduces the charity's credibility, makes a specific, concrete case for why this particular company should be interested (not generic appeals to 'helping the planet'), and anticipates/addresses a likely objection (cost, lack of relevance to the company's business) rather than ignoring it; natural use of more sophisticated persuasive structures (e.g. conditional framing, concession followed by rebuttal) rather than a simple list of benefits; a specific, actionable closing request (a meeting, a trial sponsorship) rather than a vague call to 'get in touch'."
+}

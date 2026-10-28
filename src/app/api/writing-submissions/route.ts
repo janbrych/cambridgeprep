@@ -1,4 +1,5 @@
 import { listWritingSubmissions, saveWritingSubmission } from "@/lib/store";
+import { syncProgressToGitHub } from "@/lib/git-sync";
 import type { WritingSubmission } from "@/lib/types";
 
 export async function GET() {
@@ -25,5 +26,8 @@ export async function POST(request: Request) {
   }
 
   const submission = await saveWritingSubmission(body);
+  await syncProgressToGitHub(
+    `Writing submission: ${submission.promptId} (${submission.wordCount} words)`
+  );
   return Response.json(submission, { status: 201 });
 }

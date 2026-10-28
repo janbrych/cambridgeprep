@@ -1,0 +1,58 @@
+{
+  "id": "mcc-c2-2",
+  "level": "C2",
+  "part": "multiple_choice_cloze",
+  "title": "The Ethics of De-Extinction",
+  "instructions": "For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap.",
+  "passage": "Few scientific proposals provoke quite as visceral a reaction as the notion of resurrecting extinct species through genetic engineering. Proponents of so-called de-extinction (1)___ that restoring a lost species, even imperfectly, could partially atone for humanity's role in its disappearance, while critics dismiss the entire enterprise as a vanity project dressed up in the language of conservation.\n\nThe woolly mammoth has become the (2)___ poster child for the movement, not least because frozen specimens, remarkably well preserved in permafrost, supply genetic material that other extinct creatures simply cannot. Yet even in this best-case scenario, scientists would not be cloning a mammoth outright so much as (3)___ mammoth genes into the genome of its nearest living relative, the Asian elephant, to produce something closer to a hybrid approximation.\n\nConservationists worry that pouring resources into such headline-grabbing projects risks (4)___ attention and funding away from the unglamorous, day-to-day work of protecting species that are merely endangered rather than already gone. A resurrected mammoth, however impressive to behold, does nothing to shore up a habitat still being lost to agriculture and development.\n\nThere is also a thornier ecological question lurking beneath the technical one: an ecosystem does not (5)___ in stasis awaiting a missing species' return. Thousands of years after the mammoth vanished, the tundra it once shaped has (6)___ into something considerably different, and reintroducing even a close approximation could have consequences no one can fully predict.\n\nSupporters counter that these uncertainties, however real, should not be allowed to (7)___ the project altogether, arguing that a cautiously managed reintroduction, monitored closely and reversed if necessary, is a reasonable price for the ecological and reputational benefits that might follow. Whether regulators, let alone the wider public, will ultimately find that trade-off (8)___ remains, for now, an open question.",
+  "questions": [
+    {
+      "number": 1,
+      "options": ["maintain", "retain", "sustain", "detain"],
+      "answer": "A",
+      "explanation": "'Maintain that' means to assert or argue a position. 'Retain' means to keep possession of something, 'sustain' means to keep something going, and 'detain' means to hold someone back — none introduce an argued claim."
+    },
+    {
+      "number": 2,
+      "options": ["untimely", "unlikely", "unruly", "unlikable"],
+      "answer": "B",
+      "explanation": "'Unlikely poster child' is an established phrase for a surprising but fitting symbol of a cause. 'Untimely' means badly timed, 'unruly' means difficult to control, and 'unlikable' means hard to like — all share a prefix but have unrelated meanings."
+    },
+    {
+      "number": 3,
+      "options": ["slicing", "spelling", "splicing", "spiking"],
+      "answer": "C",
+      "explanation": "'Splice genes into a genome' is the precise term for inserting genetic material. 'Slicing' (cutting into pieces) is a near-homophone trap; 'spelling' is unrelated; 'spiking' means adding a sudden increase or contaminating something."
+    },
+    {
+      "number": 4,
+      "options": ["diverging", "divesting", "diffusing", "diverting"],
+      "answer": "D",
+      "explanation": "'Divert attention/funding away from' means to redirect resources elsewhere. 'Diverge' isn't used transitively like this; 'divest' means to sell off or give up assets; 'diffuse' means to spread out or defuse tension."
+    },
+    {
+      "number": 5,
+      "options": ["flourish", "languish", "vanish", "anguish"],
+      "answer": "B",
+      "explanation": "'Languish in stasis' means to remain passively unchanged. 'Flourish' means the opposite (to thrive); 'vanish' means to disappear entirely, contradicting an ecosystem that still exists and 'awaits' anything; 'anguish' is a near-spelling trap meaning to suffer distress."
+    },
+    {
+      "number": 6,
+      "options": ["transmitted", "transferred", "transmuted", "transpired"],
+      "answer": "C",
+      "explanation": "'Transmute into' is a literary verb meaning to transform fundamentally. 'Transmit' means to send or pass on; 'transfer' means to move something from one owner/place to another; 'transpire' means to happen or become known, and doesn't take 'into' in this sense."
+    },
+    {
+      "number": 7,
+      "options": ["derail", "detail", "devalue", "derange"],
+      "answer": "A",
+      "explanation": "'Derail a project' means to disrupt or stop it completely, fitting 'altogether'. 'Detail' means to describe precisely; 'devalue' means to reduce worth; 'derange' means to make someone mentally unstable — all near-spelling traps."
+    },
+    {
+      "number": 8,
+      "options": ["palpable", "plausible", "palliative", "palatable"],
+      "answer": "D",
+      "explanation": "'Find a trade-off palatable' means to consider it acceptable. 'Palpable' means obvious or tangible; 'plausible' means believable, which doesn't fit judging acceptability; 'palliative' means relieving symptoms without addressing the cause."
+    }
+  ]
+}

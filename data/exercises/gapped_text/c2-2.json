@@ -1,0 +1,70 @@
+{
+  "id": "gt-c2-2",
+  "level": "C2",
+  "part": "gapped_text",
+  "title": "The Science and Cultural History of Laughter",
+  "instructions": "Six paragraphs have been removed from the text below. Choose from the paragraphs A-G the one which fits each gap (1-6). There is one extra paragraph which you do not need to use.",
+  "passage": "Laughter is, on reflection, a strange thing for evolution to have produced: a sudden, often involuntary convulsion of the respiratory system that leaves us temporarily unable to speak clearly, see through tears, or, in extreme cases, remain standing.\n\n[1]\n\nIts origins, according to several primatologists, almost certainly predate language itself. Chimpanzees and other great apes produce a breathy, panting vocalisation during rough-and-tumble play that bears a striking structural resemblance to human laughter, suggesting the behaviour's roots lie in physical play rather than in anything resembling a joke.\n\n[2]\n\nWhat eventually transformed this play-signal into something capable of responding to wit, irony and wordplay remains one of the more genuinely mysterious chapters in the evolution of human cognition.\n\n[3]\n\nSocial scientists, meanwhile, have become increasingly interested in laughter's function as social glue rather than as a simple response to humour. The overwhelming majority of everyday laughter, studies of recorded conversation reveal, occurs in response to remarks that are not objectively funny in any meaningful sense.\n\n[4]\n\nThis social dimension helps explain a pattern that would otherwise seem puzzling: people laugh considerably more often in the company of others than they do alone, even when consuming identical comedic material in both settings.\n\n[5]\n\nLaughter's social function also appears to operate, at least partially, outside conscious control: it is notoriously difficult to fake convincingly.\n\n[6]\n\nWhatever its precise evolutionary purpose, laughter's resistance to deliberate imitation suggests it evolved, at least in part, as a reasonably reliable signal of authentic social bonding - one considerably harder to fake than a smile, and correspondingly more valuable as proof of genuine rapport.",
+  "paragraphs": [
+    {
+      "letter": "A",
+      "text": "Explaining why such an apparently costly, disruptive behaviour would have been favoured by natural selection has occupied researchers for decades, with most now looking for answers considerably further back in evolutionary history than language itself."
+    },
+    {
+      "letter": "B",
+      "text": "This vocalisation appears to function largely as a signal of continued playful intent, reassuring a play partner that an apparently aggressive wrestling match remains, in fact, entirely good-natured."
+    },
+    {
+      "letter": "C",
+      "text": "Some researchers suspect the transition was gradual and piecemeal, with laughter's original play-signalling function simply being recruited, bit by bit, for an increasing range of social situations well beyond physical roughhousing."
+    },
+    {
+      "letter": "D",
+      "text": "Far more commonly, laughter simply punctuates ordinary conversation, signalling agreement, easing a slightly awkward moment, or softening a remark that might otherwise land as overly blunt."
+    },
+    {
+      "letter": "E",
+      "text": "One frequently cited study found that people were up to thirty times more likely to laugh when watching a comedy film with friends than when watching the identical film alone."
+    },
+    {
+      "letter": "F",
+      "text": "Listeners, even untrained ones, prove surprisingly adept at distinguishing a genuine laugh from a performed one on the basis of pitch and rhythm alone, a discrepancy the conscious mind seems largely unable to correct for when attempting to laugh on command."
+    },
+    {
+      "letter": "G",
+      "text": "A smile, by contrast, can be summoned at will with relatively little physiological giveaway, which is precisely why it functions so much less reliably as proof of genuine warmth."
+    }
+  ],
+  "answers": [
+    {
+      "gapNumber": 1,
+      "letter": "A",
+      "explanation": "A picks up the 'strange thing for evolution to have produced' idea from the opening sentence and frames it as a research puzzle, leading naturally into the next paragraph's discussion of laughter's evolutionary origins."
+    },
+    {
+      "gapNumber": 2,
+      "letter": "B",
+      "explanation": "B explains the function of 'this vocalisation' just described in chimpanzees, before the text moves on to the separate mystery of how it came to respond to wit and wordplay."
+    },
+    {
+      "gapNumber": 3,
+      "letter": "C",
+      "explanation": "C offers a tentative answer to the 'genuinely mysterious' transformation just mentioned, before the text shifts focus to social scientists' separate interest in laughter."
+    },
+    {
+      "gapNumber": 4,
+      "letter": "D",
+      "explanation": "D explains what the 'not objectively funny' laughter just mentioned actually accomplishes, before the text turns to the company-versus-alone pattern this helps explain."
+    },
+    {
+      "gapNumber": 5,
+      "letter": "E",
+      "explanation": "E supplies the concrete study evidence for the 'pattern' of laughing more in company just described, before the text moves to laughter's resistance to conscious control."
+    },
+    {
+      "gapNumber": 6,
+      "letter": "F",
+      "explanation": "F elaborates on 'difficult to fake convincingly' with specific evidence about listeners detecting fake laughter, directly supporting the final paragraph's claim about 'resistance to deliberate imitation'."
+    }
+  ]
+}

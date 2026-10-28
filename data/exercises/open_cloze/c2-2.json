@@ -1,0 +1,52 @@
+{
+  "id": "oc-c2-2",
+  "level": "C2",
+  "part": "open_cloze",
+  "title": "Phantom Islands: Errors on the Historical Map",
+  "instructions": "For questions 1-8, read the text below and think of the word which best fits each gap. Use only one word in each gap.",
+  "passage": "For centuries, mapmakers laboured under the assumption that a blank space on a chart was a failure (1)___ be corrected rather than an honest admission of ignorance, and the result was an age of maps confidently populated with islands, mountain ranges and coastlines that, as later expeditions discovered, simply did not exist.\n\nOne notorious example, an island (2)___ appeared on charts of the North Atlantic for several centuries, was eventually traced back to a single, almost certainly mistaken, sighting logged by a sixteenth-century explorer and then copied, without verification, from one cartographer to (3)___.\n\nQuite (4)___ errors like this persisted for so long says as much about institutional caution as about individual carelessness: removing a feature once it had appeared in print risked implying that earlier, respected cartographers had been careless - a suggestion (5)___ few successors were willing to make outright.\n\nEven today, a handful of these phantom islands linger in the collective memory of cartography as a cautionary tale about the gap (6)___ confidence and accuracy, a gap modern satellite imagery has narrowed but, in more subtle ways, never entirely closed.\n\nSome historians argue that digital mapping has not so (7)___ eliminated this kind of error as changed its nature: a mislabelled coordinate can now propagate across thousands of devices within hours, (8)___ the decades it once took a paper error to be noticed, let alone corrected.",
+  "questions": [
+    {
+      "number": 1,
+      "answer": "to",
+      "explanation": "'A failure to be corrected' uses the infinitive 'to' after the abstract noun 'failure', expressing what the failure consists of."
+    },
+    {
+      "number": 2,
+      "answer": "that",
+      "acceptableAnswers": ["which"],
+      "explanation": "A relative pronoun is needed to introduce the defining clause describing which island is meant: 'an island that appeared on charts...'."
+    },
+    {
+      "number": 3,
+      "answer": "another",
+      "explanation": "'From one X to another' is a fixed pattern describing something passed successively between unspecified members of a group."
+    },
+    {
+      "number": 4,
+      "answer": "why",
+      "explanation": "'Quite why' introduces a noun clause (acting as the subject of 'says') expressing genuine uncertainty about a reason."
+    },
+    {
+      "number": 5,
+      "answer": "that",
+      "acceptableAnswers": ["which"],
+      "explanation": "A relative pronoun is needed as the object of 'make', introducing a clause describing the 'suggestion' just mentioned."
+    },
+    {
+      "number": 6,
+      "answer": "between",
+      "explanation": "'The gap between X and Y' is the fixed pattern for describing a disparity between two things, here confidence and accuracy."
+    },
+    {
+      "number": 7,
+      "answer": "much",
+      "explanation": "'Not so much X as Y' is a fixed structure contrasting two possibilities, favouring the second ('changed its nature') over the first."
+    },
+    {
+      "number": 8,
+      "answer": "unlike",
+      "explanation": "'Unlike' introduces a contrast between the near-instant spread of a digital error and the slow spread of a paper one."
+    }
+  ]
+}

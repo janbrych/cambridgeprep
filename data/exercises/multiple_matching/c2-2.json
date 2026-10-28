@@ -1,0 +1,53 @@
+{
+  "id": "mm-c2-2",
+  "level": "C2",
+  "part": "multiple_matching",
+  "title": "The Debate Over Colonising Mars",
+  "instructions": "You are going to read an article in which four specialists give their views on the prospect of colonising Mars. For questions 1-10, choose from the specialists (A-D). Each specialist may be chosen more than once.",
+  "sections": [
+    {
+      "letter": "A",
+      "heading": "Dr Elena Vance, astrophysicist",
+      "text": "The argument that we should fix Earth before even considering Mars rests on a false dichotomy: nothing prevents us from pursuing planetary conservation and a multi-planet future simultaneously, with entirely different institutions and funding streams responsible for each. What concerns me is the unpredictability of the technological window required for sustained off-world settlement; history offers no guarantee that the necessary combination of propulsion, life-support and economic appetite will remain available indefinitely if we delay. Weighed honestly, the cumulative risk of keeping every human being on a single, disaster-prone planet indefinitely strikes me as considerably graver than the risks, real as they are, of attempting a second foothold elsewhere."
+    },
+    {
+      "letter": "B",
+      "heading": "Professor Yusuf Khan, ethicist",
+      "text": "My objection isn't to space exploration itself but to the particular rhetoric surrounding Mars as a 'backup planet', which I think functions, whether intentionally or not, as a convenient excuse for wealthy nations and individuals to treat climate catastrophe as a problem with an escape hatch rather than one demanding urgent correction here. There's also a starker concern about what a Martian settlement would actually look like socially: a small population entirely dependent on centrally controlled life support is a recipe for replicating, or quite plausibly worsening, the steep power imbalances we already struggle to manage on Earth, where at least walking away from an oppressive employer or landlord remains physically possible."
+    },
+    {
+      "letter": "C",
+      "heading": "Dr Mei Lin, planetary scientist",
+      "text": "From a purely scientific standpoint, I'd argue strongly that robotic missions should remain the priority for the foreseeable future rather than crewed ones, given how much more they can accomplish per dollar without the enormous cost and risk of keeping humans alive that far from home. My deeper worry concerns planetary protection: human missions inevitably bring microbial contamination that could permanently compromise our ability to determine whether Mars ever hosted life of its own, which would be a scientific loss of almost unimaginable scale. Before a single astronaut sets foot on the surface, I'd want to see a far more extensive programme of unmanned study completed first, specifically in any region still considered a plausible site for past biological activity."
+    },
+    {
+      "letter": "D",
+      "heading": "Commander Diego Alves, former astronaut",
+      "text": "Having spent months aboard a space station myself, I find the timelines some colonisation advocates propose, frankly, difficult to take seriously; the physiological toll of prolonged exposure to radiation and reduced gravity, including measurable bone and muscle loss, remains only partially solved even for missions far shorter than a one-way trip to Mars would require. None of this means I oppose continued exploration - quite the opposite - but I think proposals confidently sketching permanent settlements within a decade or two are dramatically underestimating challenges that remain, as things stand, genuinely unresolved at the level of basic human biology."
+    }
+  ],
+  "questions": [
+    { "number": 1, "question": "argues that addressing Earth's problems and pursuing Mars colonisation are not mutually exclusive?" },
+    { "number": 2, "question": "worries that framing Mars as a 'backup planet' could reduce pressure to address problems on Earth?" },
+    { "number": 3, "question": "believes robotic exploration should take priority over human missions for now?" },
+    { "number": 4, "question": "is concerned about contaminating sites that might hold evidence of past life?" },
+    { "number": 5, "question": "argues that the risks of relying solely on Earth outweigh the risks of colonisation?" },
+    { "number": 6, "question": "worries that a Mars settlement could replicate or worsen existing social inequalities?" },
+    { "number": 7, "question": "says the timelines proposed by colonisation advocates are unrealistic?" },
+    { "number": 8, "question": "focuses on the unresolved physiological challenges of long-term space habitation?" },
+    { "number": 9, "question": "believes the technological window for starting colonisation efforts is unpredictable and should not be delayed?" },
+    { "number": 10, "question": "believes extensive unmanned study should happen before any human mission to certain regions?" }
+  ],
+  "answers": [
+    { "questionNumber": 1, "letter": "A", "explanation": "Dr Vance calls the fix-Earth-first argument 'a false dichotomy', saying 'nothing prevents us from pursuing planetary conservation and a multi-planet future simultaneously'." },
+    { "questionNumber": 2, "letter": "B", "explanation": "Professor Khan says the 'backup planet' framing 'functions...as a convenient excuse...to treat climate catastrophe as a problem with an escape hatch'." },
+    { "questionNumber": 3, "letter": "C", "explanation": "Dr Lin argues 'robotic missions should remain the priority for the foreseeable future rather than crewed ones'." },
+    { "questionNumber": 4, "letter": "C", "explanation": "Dr Lin's 'deeper worry concerns planetary protection: human missions inevitably bring microbial contamination' that could compromise the search for past life." },
+    { "questionNumber": 5, "letter": "A", "explanation": "Dr Vance says 'the cumulative risk of keeping every human being on a single, disaster-prone planet indefinitely strikes me as considerably graver' than the risks of colonisation." },
+    { "questionNumber": 6, "letter": "B", "explanation": "Professor Khan warns a Mars settlement is 'a recipe for replicating, or quite plausibly worsening, the steep power imbalances we already struggle to manage on Earth'." },
+    { "questionNumber": 7, "letter": "D", "explanation": "Commander Alves finds the proposed 'timelines some colonisation advocates propose, frankly, difficult to take seriously'." },
+    { "questionNumber": 8, "letter": "D", "explanation": "Commander Alves focuses on 'the physiological toll of prolonged exposure to radiation and reduced gravity, including measurable bone and muscle loss'." },
+    { "questionNumber": 9, "letter": "A", "explanation": "Dr Vance is concerned about 'the unpredictability of the technological window' and that delay risks losing the 'necessary combination' of required conditions." },
+    { "questionNumber": 10, "letter": "C", "explanation": "Dr Lin wants 'a far more extensive programme of unmanned study completed first' before any astronaut lands, especially in regions that might show past biological activity." }
+  ]
+}

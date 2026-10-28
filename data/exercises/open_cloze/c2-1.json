@@ -1,0 +1,50 @@
+{
+  "id": "oc-c2-1",
+  "level": "C2",
+  "part": "open_cloze",
+  "title": "The Unwritten Rules of Queuing",
+  "instructions": "For questions 1-8, read the text below and think of the word which best fits each gap. Use only one word in each gap.",
+  "passage": "Few social conventions reveal quite (1)___ much about a culture's unspoken values as the way its members behave while waiting in line. In some countries, queue-jumping is met with no more than a resigned shrug; in others, it provokes a reaction (2)___ disproportionate to the offence that onlookers readily recall the incident years later.\n\nBritain's reputation for queuing with almost ceremonial patience, (3)___ exaggerated as it sometimes is, nonetheless contains more than a grain of truth; visitors often remark, with a mixture of admiration and bafflement, (4)___ orderly a crowd can remain even when a train is delayed for hours.\n\nSociologists who study queuing behaviour note that the queue functions, among other things, as a kind of informal contract: (5)___ long as everyone respects their position, the system requires no external enforcement whatsoever. Breach that contract, however, and fellow queuers - ordinarily models of restraint - can turn remarkably hostile (6)___ a moment's notice.\n\n(7)___ the queue first evolved into a formal social institution remains disputed among historians, though rationing during wartime is often credited with cementing many of its modern conventions, from the single-file line to the universal understanding that a place, once claimed, may be briefly vacated (8)___ forfeiting it entirely.",
+  "questions": [
+    {
+      "number": 1,
+      "answer": "as",
+      "explanation": "The comparative structure 'as much...as' requires 'as' before the adjective being compared ('much') and again before the second element of the comparison."
+    },
+    {
+      "number": 2,
+      "answer": "so",
+      "explanation": "'So disproportionate...that' is a result structure: the degree expressed by 'so' leads to the consequence described in the 'that' clause."
+    },
+    {
+      "number": 3,
+      "answer": "however",
+      "explanation": "'However + adjective + subject + verb' is a concessive structure meaning 'no matter how', conceding a point before the main clause qualifies it with 'nonetheless'."
+    },
+    {
+      "number": 4,
+      "answer": "how",
+      "explanation": "'How + adjective + subject + verb' introduces an exclamatory noun clause expressing degree, here as the object of 'remark'."
+    },
+    {
+      "number": 5,
+      "answer": "as",
+      "explanation": "'As long as' is a fixed conditional conjunction meaning 'provided that'."
+    },
+    {
+      "number": 6,
+      "answer": "at",
+      "explanation": "'At a moment's notice' is a fixed phrase meaning 'immediately, without warning'."
+    },
+    {
+      "number": 7,
+      "answer": "When",
+      "explanation": "A question word is needed to form the noun clause acting as the subject of the sentence: 'When the queue...evolved...remains disputed.'"
+    },
+    {
+      "number": 8,
+      "answer": "without",
+      "explanation": "'Without' is followed by the gerund ('forfeiting') to express an action that does not happen as a result of the main action (briefly vacating a place)."
+    }
+  ]
+}

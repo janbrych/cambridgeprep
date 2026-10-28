@@ -1,0 +1,63 @@
+{
+  "id": "kwt-c2-2",
+  "level": "C2",
+  "part": "key_word_transformation",
+  "title": "Key Word Transformation: Inversion and Emphasis (Set 2)",
+  "instructions": "For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.",
+  "items": [
+    {
+      "number": 1,
+      "sentence1": "I didn't understand how serious the situation was until I read the full report.",
+      "keyword": "ONLY",
+      "sentence2Prefix": "",
+      "sentence2Suffix": "I read the full report did I understand how serious the situation was.",
+      "answer": "Only when",
+      "explanation": "'Only when + clause + inverted auxiliary (did/was/had)' is an emphatic structure meaning something became true only at that specific point."
+    },
+    {
+      "number": 2,
+      "sentence1": "I have never felt so embarrassed in my entire life.",
+      "keyword": "NEVER",
+      "sentence2Prefix": "",
+      "sentence2Suffix": "I felt so embarrassed in my entire life.",
+      "answer": "Never have",
+      "explanation": "'Never + auxiliary + subject' is an inverted structure used for emphasis, equivalent to 'I have never felt...' but more dramatic."
+    },
+    {
+      "number": 3,
+      "sentence1": "She is both an excellent violinist and a gifted composer.",
+      "keyword": "NOT",
+      "sentence2Prefix": "",
+      "sentence2Suffix": "an excellent violinist but also a gifted composer.",
+      "answer": "Not only is she",
+      "explanation": "'Not only + inverted auxiliary + subject...but also' is a fixed emphatic structure linking two qualities, requiring subject-verb inversion after 'not only'."
+    },
+    {
+      "number": 4,
+      "sentence1": "I have hardly ever seen such a dramatic improvement in such a short time.",
+      "keyword": "RARELY",
+      "sentence2Prefix": "",
+      "sentence2Suffix": "I seen such a dramatic improvement in such a short time.",
+      "answer": "Rarely have",
+      "explanation": "'Rarely + auxiliary + subject' is an inverted structure with a similar meaning to 'hardly ever', used for emphasis at the start of a sentence."
+    },
+    {
+      "number": 5,
+      "sentence1": "The team most urgently needed more funding, not more staff.",
+      "keyword": "WHAT",
+      "sentence2Prefix": "",
+      "sentence2Suffix": "the team most urgently needed was more funding, not more staff.",
+      "answer": "What",
+      "explanation": "A 'what' cleft sentence ('What + clause + be + focus') is used to emphasise a particular element of the sentence — here, the thing that was needed."
+    },
+    {
+      "number": 6,
+      "sentence1": "The design flaw, not the weather, ultimately caused the bridge's collapse.",
+      "keyword": "IT",
+      "sentence2Prefix": "",
+      "sentence2Suffix": "the design flaw, not the weather, that ultimately caused the bridge's collapse.",
+      "answer": "It was",
+      "explanation": "An 'it' cleft sentence ('It + be + focus + that...') is used to emphasise which specific element was responsible for the result."
+    }
+  ]
+}

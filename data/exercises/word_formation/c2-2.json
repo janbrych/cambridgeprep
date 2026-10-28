@@ -1,0 +1,58 @@
+{
+  "id": "wf-c2-2",
+  "level": "C2",
+  "part": "word_formation",
+  "title": "Taxidermy as Art: A History and Its Discontents",
+  "instructions": "For questions 1-8, read the text below. Use the word given in capitals at the end of each line to form a word that fits in the gap in the same line.",
+  "passage": "Taxidermy occupies an uncomfortable position in the cultural imagination, caught between the (1)___ craft of a provincial museum basement and the deliberately provocative work of contemporary artists who use preserved animals to unsettle rather than simply to inform. The practice's reputation suffered considerably during the twentieth century, as changing sensibilities came to regard mounted animals less as scientific specimens and more as faintly (2)___ relics of an era with little regard for conservation.\n\nA handful of contemporary practitioners have nonetheless sought to (3)___ the form, treating each piece less as a trophy and more as a meticulously crafted sculpture that happens to incorporate real fur, feather or bone. Their work often provokes a visceral (4)___ among viewers encountering it for the first time, caught between admiration for the evident skill and squeamishness at the material itself.\n\nCritics of the revival argue that however carefully the animal was sourced - and reputable practitioners (5)___ insist on using only creatures that died of natural causes or were culled as pests - the underlying unease about displaying a dead creature as decoration never fully disappears. Museums, for their part, have grown considerably more (6)___ about how mounted specimens are displayed, favouring detailed signage over the silent, slightly macabre dioramas of earlier decades.\n\nWhether this fragile truce between squeamishness and fascination will hold indefinitely is, (7)___, impossible to predict, though the current wave of interest shows no sign of (8)___ for now.",
+  "questions": [
+    {
+      "number": 1,
+      "root": "ANTIQUE",
+      "answer": "antiquated",
+      "explanation": "The adjective 'antiquated' (= old-fashioned, outdated) fits before 'craft', contrasting the museum-basement version of taxidermy with contemporary art."
+    },
+    {
+      "number": 2,
+      "root": "DISTASTE",
+      "answer": "distasteful",
+      "explanation": "The adjective 'distasteful' fits after 'faintly', describing how mounted animals came to be regarded as changing sensibilities shifted."
+    },
+    {
+      "number": 3,
+      "root": "LEGITIMATE",
+      "answer": "legitimise",
+      "explanation": "The verb 'legitimise' (= to make something socially acceptable) fits after 'sought to', describing practitioners' aim to rehabilitate the form's reputation."
+    },
+    {
+      "number": 4,
+      "root": "AMBIVALENT",
+      "answer": "ambivalence",
+      "explanation": "The noun 'ambivalence' (= having mixed or conflicting feelings) fits after 'a visceral', matching the admiration-and-squeamishness reaction described next."
+    },
+    {
+      "number": 5,
+      "root": "INVARIABLE",
+      "answer": "invariably",
+      "explanation": "The adverb 'invariably' (= always, without exception) fits before 'insist', emphasising that this is a consistent practice among reputable practitioners."
+    },
+    {
+      "number": 6,
+      "root": "CAUTION",
+      "answer": "cautious",
+      "explanation": "The adjective 'cautious' fits after 'more', describing museums' more careful approach to displaying specimens."
+    },
+    {
+      "number": 7,
+      "root": "ADMIT",
+      "answer": "admittedly",
+      "explanation": "The parenthetical adverb 'admittedly' concedes a point (that something is hard to predict) within the flow of the sentence."
+    },
+    {
+      "number": 8,
+      "root": "WANE",
+      "answer": "waning",
+      "explanation": "The gerund 'waning' (= gradually decreasing) fits after 'sign of', in the pattern 'show no sign of doing something'."
+    }
+  ]
+}

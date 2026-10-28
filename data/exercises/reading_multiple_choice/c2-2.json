@@ -1,0 +1,82 @@
+{
+  "id": "rmc-c2-2",
+  "level": "C2",
+  "part": "reading_multiple_choice",
+  "title": "Synaesthesia and the Blending of the Senses",
+  "instructions": "For questions 1-6, read the text below and answer the questions by choosing A, B, C or D.",
+  "passage": "For a small fraction of the population, the boundaries between the senses are considerably more porous than they are for the rest of us. People with synaesthesia might perceive the number seven as inherently green, hear a particular chord and taste citrus, or experience Tuesdays as occupying a specific point in physical space - associations that strike synaesthetes themselves as simply and unarguably true, rather than as a matter of imagination or metaphor.\n\nFor much of the twentieth century, such reports were met with professional scepticism bordering on outright dismissal, regarded by many researchers as fanciful embellishment, or at best a form of unusually vivid metaphorical thinking rather than a genuine perceptual phenomenon. Brain-imaging technology has since forced a considerable reassessment: scans of synaesthetes reliably show activation in sensory regions - the colour-processing areas of the visual cortex, say - that have no obvious business responding to a stimulus as abstract as a number or a letter.\n\nOne of the more persuasive strands of evidence for the phenomenon's authenticity comes from its remarkable consistency over time. Asked to name the colour a given letter evokes on one occasion, and again, unprompted, months or even years later, synaesthetes typically give identical answers with a reliability that casual metaphor or invention would be hard-pressed to replicate. Non-synaesthetes asked to simply make up colour associations for letters, by contrast, show nothing like the same consistency when retested.\n\nWhat remains genuinely contested is the mechanism behind the condition. One influential theory proposes a kind of incomplete pruning in infancy: brains are born with considerably more cross-wiring between sensory regions than they retain into adulthood, and synaesthesia may represent a handful of these early connections persisting past the point at which they are ordinarily eliminated. A rival account suggests the opposite - not excess wiring but unusually permeable communication between regions that, in most people, remain comparatively well insulated from one another.\n\nWhichever explanation eventually prevails, synaesthesia has proved a genuinely useful natural experiment for neuroscience more broadly, offering a rare, naturally occurring glimpse of what happens when the brain's normally tidy sensory compartments fail to stay quite so tidy - and, in the process, raising uncomfortable questions about how confidently the rest of us should assume our own, apparently unremarkable perception of the world is the only one on offer.",
+  "questions": [
+    {
+      "number": 1,
+      "question": "What does the writer suggest about synaesthetes' own experience of their associations (paragraph 1)?",
+      "options": [
+        "They can switch the associations on and off at will.",
+        "They experience them as straightforwardly real rather than figurative.",
+        "They regard the associations as a form of deliberate imagination.",
+        "They find the associations confusing and difficult to describe."
+      ],
+      "answer": "B",
+      "explanation": "The text says the associations strike synaesthetes 'as simply and unarguably true, rather than as a matter of imagination or metaphor' — explicitly ruling out the 'imagination' option, with no mention of voluntary control or confusion."
+    },
+    {
+      "number": 2,
+      "question": "According to the second paragraph, what changed scientific opinion about synaesthesia?",
+      "options": [
+        "Evidence that unrelated sensory brain regions become active in response to abstract stimuli.",
+        "Synaesthetes became more willing to discuss their experiences publicly.",
+        "A general decline in scientific scepticism about unusual psychological claims.",
+        "The discovery that metaphorical thinking is more common than previously assumed."
+      ],
+      "answer": "A",
+      "explanation": "Brain scans showing activation in sensory regions with 'no obvious business responding to' an abstract stimulus are presented as the specific cause of the reassessment — not a general decline in scepticism, willingness to discuss, or findings about metaphorical thinking."
+    },
+    {
+      "number": 3,
+      "question": "What does the consistency described in the third paragraph demonstrate?",
+      "options": [
+        "That non-synaesthetes can learn to develop similar associations.",
+        "That synaesthetic associations change gradually over a person's lifetime.",
+        "That synaesthetic associations are likely to be genuine rather than invented.",
+        "That synaesthetes have unusually good memories."
+      ],
+      "answer": "C",
+      "explanation": "Stable, repeatable associations over months or years are contrasted with non-synaesthetes' inconsistent invented ones, as evidence the associations are real rather than fabricated — not a claim about memory skill, learning, or gradual change (the point is that the answers stay identical)."
+    },
+    {
+      "number": 4,
+      "question": "What is the key difference between the two theories mentioned in the fourth paragraph?",
+      "options": [
+        "One has been scientifically disproven, while the other remains untested.",
+        "One attributes the condition to retained excess connections, the other to excessive permeability between otherwise separate regions.",
+        "One applies only to colour-related synaesthesia, the other to all forms.",
+        "One suggests no cross-wiring exists at all, while the other claims it is universal."
+      ],
+      "answer": "B",
+      "explanation": "One theory proposes 'incomplete pruning' leaving excess early connections; the rival proposes 'unusually permeable communication between regions' that are normally separate — neither is described as disproven, type-specific, or about universal wiring."
+    },
+    {
+      "number": 5,
+      "question": "What does the final paragraph suggest is valuable about studying synaesthesia?",
+      "options": [
+        "It allows non-synaesthetes to experience synaesthesia through training.",
+        "It has definitively resolved the debate over its underlying mechanism.",
+        "It has proved that all human perception is fundamentally unreliable.",
+        "It offers insight into sensory processing more broadly, regardless of which theory is correct."
+      ],
+      "answer": "D",
+      "explanation": "The text says 'whichever explanation eventually prevails' it remains 'a genuinely useful natural experiment' — explicitly not resolved, and the questions raised are about confidence in perception generally, not proof that all perception is unreliable."
+    },
+    {
+      "number": 6,
+      "question": "What is the writer's overall tone towards synaesthesia in this text?",
+      "options": [
+        "Purely descriptive, with no implied evaluation of its scientific importance.",
+        "Dismissive, treating it as an exaggerated claim.",
+        "Cautiously appreciative, treating it as a scientifically credible and genuinely informative phenomenon.",
+        "Alarmed, suggesting it represents a serious neurological disorder."
+      ],
+      "answer": "C",
+      "explanation": "The text presents mounting evidence (brain imaging, consistency) and calls it 'genuinely useful' for neuroscience — the opposite of dismissive, not framed as a disorder, and clearly evaluative rather than neutral description."
+    }
+  ]
+}
